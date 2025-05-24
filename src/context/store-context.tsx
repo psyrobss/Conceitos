@@ -1,4 +1,3 @@
-
 "use client";
 
 import React, { createContext, useState, useContext, ReactNode, useEffect, useCallback } from 'react';
@@ -36,7 +35,11 @@ interface StoreContextProps {
 
 const StoreContext = createContext<StoreContextProps | undefined>(undefined);
 
-export const StoreProvider = ({ children }: { children: ReactNode }) => {
+interface StoreProviderProps {
+  children: ReactNode;
+}
+
+export const StoreProvider: React.FC<StoreProviderProps> = ({ children }: StoreProviderProps): React.ReactElement => {
   const [concepts, setConcepts] = useState<PsychologicalConcept[]>([]);
   const [isLoadingConcepts, setIsLoadingConcepts] = useState<boolean>(true);
   const [cart, setCart] = useState<PsychologicalConcept[]>([]);
@@ -47,19 +50,19 @@ export const StoreProvider = ({ children }: { children: ReactNode }) => {
   const [newResultIsAvailable, setNewResultIsAvailable] = useState<boolean>(false);
   const [activeCategoryFilter, setActiveCategoryFilter] = useState<string | null>(null);
   const [sortOrder, setSortOrder] = useState<SortOrder>('default');
-  const [searchTerm, setSearchTermState] = useState<string>(''); // Renamed to avoid conflict with prop
+  const [searchTerm, setSearchTermState] = useState<string>('');
   const { toast } = useToast();
 
-  useEffect(() => {
-    const fetchConcepts = async () => {
+  useEffect((): void => {
+    const fetchConcepts = async (): Promise<void> => {
       setIsLoadingConcepts(true);
       try {
-        const response = await fetch('/concepts.json');
+        const response: Response = await fetch('/concepts.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data: Omit<PsychologicalConcept, 'icon'>[] = await response.json();
-        const conceptsWithIcons = data.map(concept => ({
+        const conceptsWithIcons: PsychologicalConcept[] = data.map(concept => ({
           ...concept,
           icon: getConceptIcon(concept.iconName),
         }));
@@ -90,7 +93,8 @@ export const StoreProvider = ({ children }: { children: ReactNode }) => {
       const savedSearchTerm = localStorage.getItem('psiStoreSearchTerm'); // Load searchTerm
 
       if (savedCart) {
-        const parsedCart: Omit<PsychologicalConcept, 'icon' | 'id'>[] & { id: string }[] = JSON.parse(savedCart);
+        // Correção 1: Ajuste da tipagem de parsedCart
+        const parsedCart: Omit<PsychologicalConcept, 'icon'>[] = JSON.parse(savedCart);
         const cartWithIcons = parsedCart.map(c => ({
           ...c,
           icon: getConceptIcon(c.iconName)
@@ -98,7 +102,8 @@ export const StoreProvider = ({ children }: { children: ReactNode }) => {
         setCart(cartWithIcons);
       }
       if (savedPurchased) {
-        const parsedPurchased: Omit<PsychologicalConcept, 'icon' | 'id'>[] & { id: string }[] = JSON.parse(savedPurchased);
+        // Correção 2: Ajuste da tipagem de parsedPurchased
+        const parsedPurchased: Omit<PsychologicalConcept, 'icon'>[] = JSON.parse(savedPurchased);
         const purchasedWithIcons = parsedPurchased.map(c => ({
           ...c,
           icon: getConceptIcon(c.iconName)

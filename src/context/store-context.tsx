@@ -35,11 +35,7 @@ interface StoreContextProps {
 
 const StoreContext = createContext<StoreContextProps | undefined>(undefined);
 
-interface StoreProviderProps {
-  children: ReactNode;
-}
-
-export const StoreProvider: React.FC<StoreProviderProps> = ({ children }: StoreProviderProps): React.ReactElement => {
+export const StoreProvider = ({ children }: { children: ReactNode }) => {
   const [concepts, setConcepts] = useState<PsychologicalConcept[]>([]);
   const [isLoadingConcepts, setIsLoadingConcepts] = useState<boolean>(true);
   const [cart, setCart] = useState<PsychologicalConcept[]>([]);
@@ -50,19 +46,19 @@ export const StoreProvider: React.FC<StoreProviderProps> = ({ children }: StoreP
   const [newResultIsAvailable, setNewResultIsAvailable] = useState<boolean>(false);
   const [activeCategoryFilter, setActiveCategoryFilter] = useState<string | null>(null);
   const [sortOrder, setSortOrder] = useState<SortOrder>('default');
-  const [searchTerm, setSearchTermState] = useState<string>('');
+  const [searchTerm, setSearchTermState] = useState<string>(''); // Renamed to avoid conflict with prop
   const { toast } = useToast();
 
-  useEffect((): void => {
-    const fetchConcepts = async (): Promise<void> => {
+  useEffect(() => {
+    const fetchConcepts = async () => {
       setIsLoadingConcepts(true);
       try {
-        const response: Response = await fetch('/concepts.json');
+        const response = await fetch('/concepts.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data: Omit<PsychologicalConcept, 'icon'>[] = await response.json();
-        const conceptsWithIcons: PsychologicalConcept[] = data.map(concept => ({
+        const conceptsWithIcons = data.map(concept => ({
           ...concept,
           icon: getConceptIcon(concept.iconName),
         }));
@@ -93,21 +89,21 @@ export const StoreProvider: React.FC<StoreProviderProps> = ({ children }: StoreP
       const savedSearchTerm = localStorage.getItem('psiStoreSearchTerm'); // Load searchTerm
 
       if (savedCart) {
-        // Correção 1: Ajuste da tipagem de parsedCart
+        // Correção 1: Ajuste da tipagem de parsedCart e adição de asserção de tipo
         const parsedCart: Omit<PsychologicalConcept, 'icon'>[] = JSON.parse(savedCart);
         const cartWithIcons = parsedCart.map(c => ({
           ...c,
           icon: getConceptIcon(c.iconName)
-        }));
+        })) as PsychologicalConcept[]; // <-- Asserção de tipo adicionada aqui
         setCart(cartWithIcons);
       }
       if (savedPurchased) {
-        // Correção 2: Ajuste da tipagem de parsedPurchased
+        // Correção 2: Ajuste da tipagem de parsedPurchased e adição de asserção de tipo
         const parsedPurchased: Omit<PsychologicalConcept, 'icon'>[] = JSON.parse(savedPurchased);
         const purchasedWithIcons = parsedPurchased.map(c => ({
           ...c,
           icon: getConceptIcon(c.iconName)
-        }));
+        })) as PsychologicalConcept[]; // <-- Asserção de tipo adicionada aqui
         setPurchased(purchasedWithIcons);
       }
       if (savedBalance) setPsiBalance(parseFloat(savedBalance));

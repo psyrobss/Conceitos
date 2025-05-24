@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light Theme Colors - White Background */
+    --background: 0 0% 100%; /* white */
+    --foreground: 336 100% 9%; /* #300013 (Very Dark Purple/Brown) */
+    --card: 0 0% 97%; /* #f7f7f7 (Slightly off-white for cards) */
+    --card-foreground: 336 100% 9%; /* #300013 */
+    --popover: 0 0% 97%; /* #f7f7f7 */
+    --popover-foreground: 336 100% 9%; /* #300013 */
+    --primary: 81 39% 36%; /* #647e37 (Olive Green) */
+    --primary-foreground: 0 0% 100%; /* white */
+    --secondary: 150 18% 52%; /* #6e9a81 (Muted Green/Teal) */
+    --secondary-foreground: 336 100% 9%; /* #300013 */
+    --muted: 0 0% 94%; /* #f0f0f0 (Light gray for muted backgrounds) */
+    --muted-foreground: 336 80% 25%; /* #611339 (Mid-dark purple/brown for muted text) */
+    --accent: 150 18% 52%; /* #6e9a81 (Muted Green/Teal) */
+    --accent-foreground: 336 100% 9%; /* #300013 */
+    --destructive: 0 84.2% 60.2%; /* Default Light Red */
+    --destructive-foreground: 0 0% 98%; /* Default Light */
+    --border: 0 0% 87%; /* #dedede (Light gray border) */
+    --input: 0 0% 87%; /* #dedede (Light gray input border) */
+    --ring: 81 39% 36%; /* #647e37 (Olive Green for focus) */
+
+    /* Chart colors (light theme with white background) */
+    --chart-1: 81 39% 36%;   /* Primary (#647e37) */
+    --chart-2: 150 18% 52%;  /* Accent/Secondary (#6e9a81) */
+    --chart-3: 81 30% 65%;   /* Lighter Olive variant */
+    --chart-4: 150 15% 70%;  /* Lighter Teal variant */
+    --chart-5: 0 0% 75%;     /* Neutral Grey */
+
+    --radius: 0.5rem;
+
+    /* Sidebar specific colors (mirroring light theme with white BG) */
+    --sidebar-background: 0 0% 97%; /* #f7f7f7 (slightly off-white, distinct from main BG) */
+    --sidebar-foreground: 336 100% 9%; /* #300013 */
+    --sidebar-primary: 81 39% 36%; /* #647e37 */
+    --sidebar-primary-foreground: 0 0% 100%; /* white */
+    --sidebar-accent: 150 18% 52%; /* #6e9a81 */
+    --sidebar-accent-foreground: 336 100% 9%; /* #300013 */
+    --sidebar-border: 0 0% 87%; /* #dedede */
+    --sidebar-ring: 81 39% 36%; /* #647e37 */
+  }
+
+  .dark {
+    /* Dark Theme Colors - Based on User Palette (as previously set) */
+    --background: 336 100% 9%; /* #300013 (Very Dark Purple/Brown) */
+    --foreground: 45 31% 77%; /* #d2c8a7 (Light beige) */
+    --card: 336 80% 12%; /* #3b0a1a (slightly lighter and less saturated than background) */
+    --card-foreground: 45 31% 77%; /* #d2c8a7 */
+    --popover: 336 100% 9%; /* #300013 */
+    --popover-foreground: 45 31% 77%; /* #d2c8a7 */
+    --primary: 150 18% 52%; /* #6e9a81 (Muted Green/Teal) */
+    --primary-foreground: 336 100% 9%; /* #300013 for contrast on #6e9a81 */
+    --secondary: 81 39% 36%; /* #647e37 (Olive Green) */
+    --secondary-foreground: 45 31% 77%; /* #d2c8a7 */
+    --muted: 336 70% 15%; /* #4c132c (distinct from background and card, for muted elements) */
+    --muted-foreground: 45 25% 65%; /* #bcb59b (desaturated beige for muted text) */
+    --accent: 45 17% 73%; /* #c0b698 (Light grayish beige) */
+    --accent-foreground: 336 100% 9%; /* #300013 */
+    --destructive: 0 62.8% 40.6%; /* Default Dark Red */
+    --destructive-foreground: 0 0% 98%; /* Default Light */
+    --border: 336 70% 20%; /* lighter border for dark bg */
+    --input: 336 70% 20%; /* lighter border for dark bg */
+    --ring: 150 18% 52%; /* #6e9a81 (Muted Green/Teal) for focus */
+
+    /* Chart colors (using dark theme colors) */
+    --chart-1: 150 18% 52%;  /* Primary (#6e9a81) */
+    --chart-2: 45 17% 73%;   /* Accent (#c0b698) */
+    --chart-3: 45 31% 60%;   /* Mid-beige */
+    --chart-4: 81 39% 45%;   /* Mid-Olive */
+    --chart-5: 150 15% 35%;  /* Darker Teal */
+
+    /* Sidebar specific colors (mirroring dark theme) */
+    --sidebar-background: 336 100% 9%; /* #300013 */
+    --sidebar-foreground: 45 31% 77%; /* #d2c8a7 */
+    --sidebar-primary: 150 18% 52%; /* #6e9a81 */
+    --sidebar-primary-foreground: 336 100% 9%; /* #300013 */
+    --sidebar-accent: 45 17% 73%; /* #c0b698 */
+    --sidebar-accent-foreground: 336 100% 9%; /* #300013 */
+    --sidebar-border: 336 70% 20%; /* lighter border */
+    --sidebar-ring: 150 18% 52%; /* #6e9a81 */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-sans); /* Use the font variable */
+  }
+}

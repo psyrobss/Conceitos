@@ -1,0 +1,903 @@
+
+[
+  {
+    "id": "pensamentos-automaticos",
+    "name": "Pensamentos Automáticos",
+    "basicDescription": "Pensamentos rápidos e involuntários que surgem em resposta a situações, influenciando emoções e comportamentos.",
+    "complexDescription": "Pensamentos automáticos são cognições que fluem rapidamente pela mente, muitas vezes na periferia da consciência. Eles são específicos da situação e tendem a ser aceitos como verdadeiros sem questionamento, mesmo que sejam distorcidos ou disfuncionais. Originam-se de crenças mais profundas (crenças nucleares e intermediárias) sobre nós mesmos, os outros e o mundo. Por exemplo, ao receber uma crítica no trabalho, um pensamento automático poderia ser 'Eu sou incompetente'. Esse pensamento, por sua vez, pode gerar sentimentos de tristeza ou ansiedade e levar a comportamentos como evitar tarefas desafiadoras. Na Terapia Cognitivo-Comportamental (TCC), um passo fundamental é aprender a identificar esses pensamentos, avaliar sua validade e o impacto que têm, e, se necessário, modificá-los ou desenvolver pensamentos alternativos mais realistas e adaptativos. Reconhecer e gerenciar pensamentos automáticos é crucial para mudar padrões emocionais e comportamentais negativos.",
+    "price": 16,
+    "category": "TCC",
+    "iconName": "Brain"
+  },
+  {
+    "id": "distorcoes-cognitivas",
+    "name": "Distorções Cognitivas",
+    "basicDescription": "Padrões de pensamento exagerados ou irracionais que distorcem a realidade e contribuem para emoções negativas.",
+    "complexDescription": "Distorções cognitivas são erros sistemáticos no pensamento que levam as pessoas a perceberem a realidade de forma imprecisa, geralmente negativa. Funcionam como 'filtros mentais' que nos fazem tirar conclusões incorretas. Exemplos comuns incluem: catastrofização (esperar o pior cenário possível), leitura mental (assumir que sabemos o que os outros estão pensando, geralmente algo negativo sobre nós), filtro mental (focar apenas nos aspectos negativos de uma situação e ignorar os positivos), personalização (acreditar que somos a causa de eventos negativos externos sem evidências), e 'deverias' (ter regras rígidas sobre como nós ou os outros deveríamos agir). Essas distorções são alvos centrais na TCC, pois alimentam ciclos de ansiedade, depressão e outros problemas emocionais. A terapia ajuda a identificar essas distorções nos pensamentos automáticos e a desafiá-las com evidências e perspectivas mais equilibradas.",
+    "price": 23,
+    "category": "TCC",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "crencas-nucleares-centrais",
+    "name": "Crenças Nucleares (Centrais)",
+    "basicDescription": "Ideias fundamentais e profundas que temos sobre nós mesmos, os outros e o mundo, geralmente formadas na infância.",
+    "complexDescription": "Crenças nucleares (ou centrais) representam o nível mais profundo de cognição. São convicções globais, rígidas e supergeneralizadas sobre o self ('Eu sou incapaz'), os outros ('As pessoas não são confiáveis') ou o mundo ('O mundo é perigoso'). Frequentemente, formam-se a partir de experiências significativas na infância e na adolescência e são tidas como verdades absolutas. Embora nem sempre conscientes, elas influenciam a camada mais superficial dos pensamentos (pensamentos automáticos) e as regras/suposições que guiam nossa vida (crenças intermediárias). Crenças nucleares disfuncionais, como de desvalor, desamor ou desamparo, são comuns em transtornos psicológicos. Na TCC, a identificação e modificação dessas crenças são objetivos importantes, embora geralmente abordados após o trabalho com pensamentos automáticos e crenças intermediárias, pois exigem um processo terapêutico mais aprofundado e cuidadoso.",
+    "price": 33,
+    "category": "TCC",
+    "iconName": "Zap"
+  },
+  {
+    "id": "modelo-cognitivo-situacao-pensamento-emocao-comportamento",
+    "name": "Modelo Cognitivo (Situação-Pensamento-Emoção-Comportamento)",
+    "basicDescription": "A ideia central da TCC: não são as situações que causam nossas emoções, mas sim a interpretação (pensamento) que fazemos delas.",
+    "complexDescription": "O modelo cognitivo é a espinha dorsal da TCC e postula que nossas reações emocionais e comportamentais são mediadas por nossos pensamentos e percepções sobre os eventos, e não pelos eventos em si. Uma determinada situação (A) ativa certos pensamentos automáticos e crenças (B - Beliefs/Pensamentos), que por sua vez levam a consequências emocionais, fisiológicas e comportamentais (C). Por exemplo, a situação de 'ser convidado para uma festa' (A) pode levar ao pensamento 'Ninguém vai gostar de mim' (B), resultando em ansiedade (emoção), taquicardia (fisiologia) e recusa do convite (comportamento) (C). Entender essa sequência permite intervir no ponto 'B' (pensamentos). Ao identificar e modificar os pensamentos disfuncionais associados a uma situação, podemos alterar as emoções e comportamentos resultantes, tornando-os mais adaptativos. Esse modelo fornece um mapa claro para o processo terapêutico na TCC.",
+    "price": 11,
+    "category": "TCC",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "reestruturacao-cognitiva",
+    "name": "Reestruturação Cognitiva",
+    "basicDescription": "Técnica da TCC para identificar, desafiar e modificar pensamentos negativos ou irracionais, substituindo-os por alternativas mais realistas.",
+    "complexDescription": "A reestruturação cognitiva é um conjunto de técnicas usadas na TCC para ajudar os indivíduos a reconhecer e alterar padrões de pensamento disfuncionais (pensamentos automáticos e distorções cognitivas) que contribuem para o sofrimento emocional. O processo envolve primeiro a identificação dos pensamentos problemáticos que ocorrem em situações específicas (muitas vezes usando um Registro de Pensamentos Disfuncionais - RPD). Em seguida, esses pensamentos são examinados criticamente: quais são as evidências a favor e contra eles? Existem explicações alternativas? Qual é o efeito de acreditar nesse pensamento? Quais são as distorções cognitivas presentes? Com base nessa análise, o indivíduo trabalha, com a ajuda do terapeuta, para desenvolver pensamentos alternativos que sejam mais equilibrados, baseados em evidências e úteis. O objetivo não é o 'pensamento positivo' irrealista, mas sim um pensamento mais realista e adaptativo que reduza a intensidade das emoções negativas e promova comportamentos mais funcionais.",
+    "price": 29,
+    "category": "TCC",
+    "iconName": "Smile"
+  },
+  {
+    "id": "ativacao-comportamental",
+    "name": "Ativação Comportamental",
+    "basicDescription": "Técnica, especialmente usada na depressão, que incentiva o aumento gradual de atividades prazerosas ou significativas para combater a inércia e melhorar o humor.",
+    "complexDescription": "A Ativação Comportamental (AC) é uma intervenção psicoterapêutica eficaz, frequentemente usada como componente da TCC ou como tratamento independente, principalmente para a depressão. Baseia-se na ideia de que a depressão muitas vezes leva à inatividade, isolamento social e abandono de rotinas e atividades que antes eram fontes de prazer ou senso de realização. Essa inatividade, por sua vez, reforça os sentimentos depressivos, criando um ciclo vicioso. A AC trabalha para quebrar esse ciclo, ajudando o indivíduo a identificar e agendar gradualmente atividades que estejam alinhadas com seus valores ou que tenham potencial para serem recompensadoras, mesmo que a motivação inicial seja baixa. Começa-se com tarefas simples e manejáveis, aumentando a complexidade conforme a confiança e o humor melhoram. O foco está na ação ('de fora para dentro'), partindo do princípio que o engajamento em comportamentos valiosos pode levar a uma melhora no humor e na cognição, em vez de esperar a motivação surgir primeiro.",
+    "price": 25,
+    "category": "TCC",
+    "iconName": "Users"
+  },
+  {
+    "id": "terapia-de-exposicao",
+    "name": "Terapia de Exposição",
+    "basicDescription": "Técnica para tratar ansiedade e fobias, expondo a pessoa gradualmente e com segurança àquilo que ela teme e evita.",
+    "complexDescription": "A Terapia de Exposição é um tratamento padrão-ouro para transtornos de ansiedade, como fobias específicas, transtorno de ansiedade social, transtorno do pânico e TEPT. Baseia-se no princípio de que a evitação de situações, objetos ou pensamentos temidos mantém e reforça a ansiedade a longo prazo. A exposição envolve confrontar esses estímulos temidos de forma sistemática, gradual e controlada, em um ambiente seguro (com o terapeuta). Isso pode ser feito 'in vivo' (na vida real), por imaginação, ou usando realidade virtual. A exposição repetida permite que a pessoa aprenda que suas previsões catastróficas geralmente não se concretizam e que a ansiedade diminui naturalmente com o tempo (habituação), mesmo sem fugir ou evitar. Frequentemente, combina-se com a Prevenção de Resposta (impedir comportamentos de segurança ou rituais que a pessoa usa para aliviar a ansiedade), permitindo um aprendizado corretivo mais profundo.",
+    "price": 31,
+    "category": "TCC",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "atencao-seletiva",
+    "name": "Atenção Seletiva",
+    "basicDescription": "A capacidade de focar a consciência em um estímulo específico enquanto se ignora outros estímulos irrelevantes.",
+    "complexDescription": "Atenção seletiva é um processo cognitivo fundamental que nos permite direcionar nossos recursos mentais limitados para informações relevantes em nosso ambiente, enquanto filtramos distrações. É como um 'holofote' mental que ilumina o que é importante no momento. Sem ela, seríamos sobrecarregados pela vasta quantidade de estímulos sensoriais ao nosso redor. Modelos teóricos, como o de Broadbent (filtro precoce) e o de Treisman (atenuação), tentam explicar como essa seleção ocorre. Fatores como a saliência do estímulo (um som alto) ou a relevância para nossos objetivos (procurar um amigo na multidão) influenciam o que captura nossa atenção. Disfunções na atenção seletiva podem estar presentes em condições como o TDAH. Em transtornos de ansiedade, pode haver um viés atencional, onde a pessoa foca seletivamente em estímulos ameaçadores, perpetuando a ansiedade.",
+    "price": 13,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Target"
+  },
+  {
+    "id": "memoria-de-trabalho-operacional",
+    "name": "Memória de Trabalho (Operacional)",
+    "basicDescription": "Sistema de memória de capacidade limitada que mantém e manipula informações temporariamente para realizar tarefas cognitivas complexas.",
+    "complexDescription": "A memória de trabalho, diferentemente da memória de curto prazo (que apenas armazena), é um sistema ativo responsável por manter a informação online e manipulá-la para tarefas como raciocínio, compreensão de linguagem e aprendizagem. O modelo mais influente, proposto por Baddeley e Hitch, inclui componentes como a alça fonológica (para informação verbal), o esboço visuoespacial (para informação visual e espacial) e o executivo central (que controla a atenção e coordena os outros componentes). Recentemente, foi adicionado o buffer episódico (que integra informações de diferentes fontes). A capacidade da memória de trabalho é limitada, geralmente estimada em cerca de 7 +/- 2 'chunks' de informação (Miller), mas varia entre indivíduos. É crucial para o funcionamento cognitivo diário, desde seguir instruções e fazer cálculos mentais até participar de conversas e resolver problemas complexos.",
+    "price": 18,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Scale"
+  },
+  {
+    "id": "esquemas-mentais",
+    "name": "Esquemas Mentais",
+    "basicDescription": "Estruturas cognitivas organizadas que representam nosso conhecimento sobre conceitos, objetos, eventos ou pessoas, guiando nossa percepção e interpretação.",
+    "complexDescription": "Esquemas são blocos de construção fundamentais do conhecimento em nossa memória de longo prazo. São como 'mapas mentais' ou 'roteiros' que organizam informações e experiências passadas, ajudando-nos a entender e navegar no mundo de forma eficiente. Por exemplo, temos um esquema para 'restaurante' que inclui conhecimentos sobre cardápios, garçons, pedir comida, pagar a conta, etc. Esquemas influenciam o que percebemos, como interpretamos novas informações (tendemos a assimilar informações que se encaixam nos esquemas existentes) e o que lembramos. Embora geralmente úteis, esquemas podem levar a vieses e estereótipos se forem excessivamente rígidos ou baseados em informações incorretas. Na TCC, o termo 'esquema' (especialmente 'Esquemas Iniciais Disfuncionais' na Terapia do Esquema de Jeffrey Young) refere-se a padrões autoderrotistas profundos de pensamento, sentimento e comportamento, originados na infância, relacionados a crenças nucleares.",
+    "price": 20,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Compass"
+  },
+  {
+    "id": "heuristicas",
+    "name": "Heurísticas",
+    "basicDescription": "Atalhos mentais ou regras práticas que usamos para tomar decisões e resolver problemas rapidamente, embora possam levar a erros.",
+    "complexDescription": "Heurísticas são estratégias cognitivas simplificadoras que permitem fazer julgamentos e tomar decisões de forma rápida e eficiente, sem a necessidade de uma análise exaustiva de todas as informações disponíveis. Elas funcionam bem na maioria das situações cotidianas, economizando tempo e esforço mental. No entanto, por serem atalhos, podem levar a erros sistemáticos ou vieses cognitivos. Exemplos famosos incluem a heurística da disponibilidade (julgar a probabilidade de um evento pela facilidade com que exemplos vêm à mente) e a heurística da representatividade (julgar a probabilidade de algo pertencer a uma categoria com base em quão semelhante é a um protótipo dessa categoria). O estudo das heurísticas, pioneiro por Tversky e Kahneman, revolucionou a compreensão da tomada de decisão humana, mostrando que nem sempre somos agentes puramente racionais.",
+    "price": 17,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Heart"
+  },
+  {
+    "id": "vies-de-confirmacao",
+    "name": "Viés de Confirmação",
+    "basicDescription": "A tendência de procurar, interpretar e lembrar informações de uma maneira que confirme nossas crenças ou hipóteses preexistentes.",
+    "complexDescription": "O viés de confirmação é uma das tendências cognitivas mais prevalentes. Manifesta-se quando buscamos ativamente evidências que apoiem nossas opiniões e ignoramos ou desvalorizamos informações que as contradigam. Também interpretamos informações ambíguas de forma a alinhá-las com nossas crenças e lembramos melhor dos fatos que as confirmam. Esse viés opera em diversos domínios, desde decisões pessoais e crenças políticas até diagnósticos médicos e investigações científicas. Embora possa fortalecer nossa autoconfiança, também pode levar a julgamentos errôneos, polarização de opiniões e resistência a mudar de ideia, mesmo diante de evidências contrárias. Reconhecer a existência do viés de confirmação é o primeiro passo para tentar mitigar seus efeitos, buscando ativamente perspectivas alternativas e desafiando nossas próprias suposições.",
+    "price": 19,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Shield"
+  },
+  {
+    "id": "resolucao-de-problemas",
+    "name": "Resolução de Problemas",
+    "basicDescription": "O processo cognitivo de identificar um problema, explorar possíveis soluções e escolher e implementar a melhor estratégia para alcançar um objetivo.",
+    "complexDescription": "A resolução de problemas é uma habilidade cognitiva de ordem superior que envolve superar obstáculos para atingir uma meta desejada. Geralmente, o processo inclui várias etapas: definição clara do problema, análise dos componentes do problema e dos recursos disponíveis, geração de múltiplas soluções potenciais (brainstorming), avaliação e seleção da solução mais promissora, implementação da solução escolhida e avaliação dos resultados. Estratégias comuns incluem tentativa e erro, algoritmos (procedimentos passo a passo que garantem uma solução) e heurísticas (atalhos mentais). Obstáculos à resolução eficaz de problemas podem incluir a fixidez funcional (incapacidade de ver usos alternativos para um objeto) e o 'set' mental (tendência a abordar problemas de uma maneira que funcionou no passado, mesmo que não seja adequada para o problema atual). Habilidades de resolução de problemas são ensinadas em TCC para lidar com dificuldades práticas da vida.",
+    "price": 24,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Brain"
+  },
+  {
+    "id": "tomada-de-decisao",
+    "name": "Tomada de Decisão",
+    "basicDescription": "O processo cognitivo de escolher uma opção entre várias alternativas disponíveis, com base em preferências, valores e avaliação de riscos e benefícios.",
+    "complexDescription": "A tomada de decisão é um processo cognitivo central na vida diária, envolvendo a seleção de um curso de ação entre múltiplas possibilidades. Pode variar de escolhas simples (o que comer no café da manhã) a decisões complexas com consequências significativas (mudar de carreira). Tradicionalmente, modelos racionais pressupunham que as pessoas pesam cuidadosamente os prós e contras de cada opção para maximizar a utilidade esperada. No entanto, a pesquisa em psicologia cognitiva (por exemplo, Tversky e Kahneman) mostrou que as decisões humanas são frequentemente influenciadas por heurísticas, vieses cognitivos, emoções e fatores contextuais (framing effect). As emoções, em particular, desempenham um papel crucial, como demonstrado pela hipótese do marcador somático de Damásio. Entender os fatores psicológicos que influenciam a tomada de decisão é vital em áreas como economia comportamental, marketing e políticas públicas.",
+    "price": 21,
+    "category": "Psicologia Cognitiva",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "metacognicao",
+    "name": "Metacognição",
+    "basicDescription": "A capacidade de 'pensar sobre o próprio pensamento', incluindo o conhecimento e o controle sobre os próprios processos cognitivos.",
+    "complexDescription": "Metacognição refere-se à consciência e compreensão dos próprios processos de pensamento e à capacidade de regular esses processos para otimizar a aprendizagem e a resolução de problemas. Inclui dois componentes principais: conhecimento metacognitivo (o que sabemos sobre nossas próprias habilidades cognitivas, tarefas e estratégias – por exemplo, saber que você aprende melhor visualmente) e regulação metacognitiva (o planejamento, monitoramento e avaliação do próprio aprendizado ou desempenho – por exemplo, definir metas de estudo, verificar a compreensão durante a leitura, ajustar estratégias se não estiverem funcionando). Habilidades metacognitivas são cruciais para a aprendizagem eficaz e o desempenho acadêmico. Pessoas com boa metacognição são mais autônomas em seu aprendizado, capazes de identificar quando não entendem algo e de tomar medidas para corrigir isso. Na TCC, a metacognição pode ser usada para refletir sobre os próprios padrões de pensamento.",
+    "price": 27,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Zap"
+  },
+  {
+    "id": "catastrofizacao",
+    "name": "Catastrofização",
+    "basicDescription": "Distorção cognitiva onde se espera ou imagina o pior resultado possível para uma situação, mesmo que seja improvável.",
+    "complexDescription": "A catastrofização é um padrão de pensamento disfuncional caracterizado pela tendência a superestimar a probabilidade de ocorrência de eventos negativos e/ou a exagerar as consequências negativas desses eventos, vendo-os como insuportáveis ou devastadores. A pessoa foca no 'e se...?' mais terrível. Por exemplo, uma dor de cabeça pode ser interpretada como sinal de um tumor cerebral; um pequeno erro no trabalho pode levar à crença de demissão iminente. Esse tipo de pensamento é comum em transtornos de ansiedade e depressão, e também na dor crônica (onde se foca nas piores implicações da dor). A catastrofização aumenta a percepção de ameaça, intensifica emoções negativas como medo, ansiedade e desesperança, e pode levar a comportamentos de evitação ou de busca excessiva por segurança. A TCC aborda a catastrofização ajudando a pessoa a avaliar realisticamente as probabilidades e as consequências dos eventos temidos, e a desenvolver habilidades de enfrentamento.",
+    "price": 20,
+    "category": "TCC",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "leitura-mental",
+    "name": "Leitura Mental",
+    "basicDescription": "Distorção cognitiva onde se assume saber o que outra pessoa está pensando ou sentindo, geralmente algo negativo, sem evidências suficientes.",
+    "complexDescription": "A leitura mental é um erro de pensamento em que se conclui arbitrariamente que alguém está reagindo negativamente a você ou pensando mal a seu respeito, sem verificar os fatos. A pessoa age como se pudesse ler a mente dos outros, projetando suas próprias inseguranças ou expectativas negativas. Por exemplo, 'Ele não me cumprimentou direito, deve estar bravo comigo' ou 'Eles estão cochichando, com certeza estão falando mal de mim'. Essa distorção é particularmente comum na ansiedade social, onde o medo de julgamento negativo é central. O problema é que essas suposições são frequentemente baseadas em pouca ou nenhuma evidência concreta e podem levar a mal-entendidos, ansiedade desnecessária e comportamentos defensivos ou de evitação nas interações sociais. Na TCC, desafia-se a leitura mental buscando evidências concretas para a suposição, considerando explicações alternativas para o comportamento do outro e, quando apropriado, comunicando-se diretamente para esclarecer a situação.",
+    "price": 18,
+    "category": "TCC",
+    "iconName": "Smile"
+  },
+  {
+    "id": "personalizacao",
+    "name": "Personalização",
+    "basicDescription": "Distorção cognitiva onde a pessoa se culpa por eventos negativos externos ou assume responsabilidade excessiva por coisas fora de seu controle.",
+    "complexDescription": "Personalização é a tendência a relacionar eventos externos a si mesmo sem uma base sólida para fazer essa conexão, ou a assumir responsabilidade causal por resultados negativos sobre os quais se tem pouca ou nenhuma influência. Uma forma comum é culpar-se por algo que não era inteiramente sua culpa ou ver-se como a causa de algum evento externo negativo. Por exemplo, uma mãe cujo filho não vai bem na escola pode pensar 'É tudo culpa minha, sou uma péssima mãe', ignorando outros fatores. Outra forma é interpretar comentários ou ações neutras de outros como direcionadas negativamente a si. Essa distorção está frequentemente associada a sentimentos de culpa, vergonha e baixa autoestima. A TCC trabalha para corrigir a personalização ajudando a pessoa a avaliar realisticamente seu grau de responsabilidade nos eventos, a considerar outros fatores causais e a diferenciar entre influencia e controle.",
+    "price": 18,
+    "category": "TCC",
+    "iconName": "Users"
+  },
+  {
+    "id": "imperativos-deverias",
+    "name": "Imperativos (\"Deverias\")",
+    "basicDescription": "Distorção cognitiva caracterizada por regras rígidas e inflexíveis sobre como nós ou os outros 'deveríamos' ou 'não deveríamos' agir.",
+    "complexDescription": "Os imperativos, também conhecidos como 'deverias' ou 'tirania dos deverias', envolvem ter expectativas e regras rígidas sobre o próprio comportamento e o dos outros. Essas regras são expressas frequentemente com palavras como 'devo', 'tenho que', 'não posso', 'deveria'. Quando direcionadas a si mesmo ('Eu deveria ser perfeito em tudo que faço'), podem levar a sentimentos de culpa, vergonha, frustração e autocrítica excessiva quando as expectativas não são cumpridas. Quando direcionadas aos outros ('Ele deveria ter me ajudado'), podem levar a raiva, ressentimento e decepção. Essas regras inflexíveis não levam em conta as nuances das situações ou as limitações humanas, gerando sofrimento desnecessário. A TCC ajuda a identificar esses imperativos, a questionar sua validade e utilidade, e a substituí-los por preferências ou desejos mais flexíveis e realistas ('Eu gostaria de fazer bem, mas erros acontecem').",
+    "price": 19,
+    "category": "TCC",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "raciocinio-emocional",
+    "name": "Raciocínio Emocional",
+    "basicDescription": "Distorção cognitiva onde se acredita que algo deve ser verdade simplesmente porque se 'sente' que é verdade, ignorando evidências contrárias.",
+    "complexDescription": "O raciocínio emocional é a tendência a tomar os próprios sentimentos como evidência da realidade. A lógica implícita é: 'Se eu sinto assim, então deve ser verdade'. Por exemplo, 'Eu me sinto ansioso ao pegar um avião, logo, aviões são perigosos' ou 'Eu me sinto um fracasso, portanto, eu sou um fracasso'. Essa distorção confunde emoções, que são subjetivas e passageiras, com fatos objetivos. Embora as emoções sejam informações importantes, elas podem ser influenciadas por pensamentos distorcidos, cansaço, ou química corporal, e não são um guia confiável para a realidade externa. Confiar excessivamente no raciocínio emocional pode levar a conclusões errôneas e a decisões baseadas em medos ou inseguranças, em vez de numa avaliação racional da situação. Na TCC, aprende-se a reconhecer o raciocínio emocional e a buscar evidências objetivas para avaliar a situação, separando o 'sentir' do 'ser'.",
+    "price": 20,
+    "category": "TCC",
+    "iconName": "Target"
+  },
+  {
+    "id": "registro-de-pensamentos-disfuncionais-rpd",
+    "name": "Registro de Pensamentos Disfuncionais (RPD)",
+    "basicDescription": "Ferramenta da TCC usada para registrar situações, pensamentos automáticos, emoções e comportamentos, ajudando a identificar e modificar padrões negativos.",
+    "complexDescription": "O Registro de Pensamentos Disfuncionais (RPD), também conhecido como Diário de Pensamentos, é uma das ferramentas mais comuns e fundamentais da TCC. É uma técnica de automonitoramento estruturada, geralmente em formato de tabela, que ajuda o paciente a tomar consciência da relação entre situações, pensamentos, emoções e comportamentos (o modelo cognitivo na prática). As colunas típicas incluem: Situação (o evento gatilho), Pensamentos Automáticos (o que passou pela cabeça), Emoções (quais sentimentos surgiram e sua intensidade), Comportamento (o que a pessoa fez). Colunas adicionais podem ser incluídas para identificar distorções cognitivas, analisar as evidências a favor e contra o pensamento automático, e desenvolver um pensamento alternativo mais adaptativo e a emoção resultante. O preenchimento regular do RPD aumenta a autoconsciência, facilita a identificação de padrões de pensamento problemáticos e serve como base para a reestruturação cognitiva.",
+    "price": 10,
+    "category": "TCC",
+    "iconName": "Scale"
+  },
+  {
+    "id": "experimento-comportamental",
+    "name": "Experimento Comportamental",
+    "basicDescription": "Técnica da TCC onde se planeja e realiza uma 'experiência' na vida real para testar a validade de crenças ou pensamentos negativos.",
+    "complexDescription": "Experimentos comportamentais são atividades planejadas, realizadas pelo paciente fora da sessão de terapia, com o objetivo de testar empiricamente a validade de pensamentos automáticos, suposições ou crenças disfuncionais específicas. São 'testes da realidade'. Por exemplo, alguém com ansiedade social que acredita 'Se eu falar em público, vou gaguejar e todos vão rir' pode planejar um experimento onde faz uma pequena pergunta numa reunião para observar o que realmente acontece. O processo envolve: identificar a crença a ser testada, planejar um experimento específico para testá-la (o que fazer, onde, quando, como), prever o resultado com base na crença disfuncional, realizar o experimento, observar e registrar o resultado real, e refletir sobre o que foi aprendido e como isso modifica a crença original. Experimentos comportamentais são poderosos porque fornecem evidências diretas e experienciais, muitas vezes mais convincentes do que a simples discussão ou reestruturação cognitiva verbal.",
+    "price": 28,
+    "category": "TCC",
+    "iconName": "Compass"
+  },
+  {
+    "id": "mindfulness-atencao-plena",
+    "name": "Mindfulness (Atenção Plena)",
+    "basicDescription": "A prática de prestar atenção intencionalmente ao momento presente, sem julgamento, observando pensamentos, sentimentos e sensações.",
+    "complexDescription": "Mindfulness, ou atenção plena, envolve cultivar uma consciência focada no aqui e agora, observando o fluxo de experiências internas (pensamentos, emoções, sensações corporais) e externas sem se prender a elas ou julgá-las como 'boas' or 'ruins'. Não se trata de esvaziar a mente, mas de mudar a relação com os pensamentos e sentimentos, percebendo-os como eventos mentais transitórios em vez de verdades absolutas ou reflexos do 'eu'. Práticas formais incluem meditação sentada, escaneamento corporal e caminhada consciente. A atenção plena pode ser integrada informalmente nas atividades diárias. Embora originária de tradições contemplativas orientais, foi integrada em abordagens terapêuticas ocidentais, como a Terapia Cognitiva Baseada em Mindfulness (MBCT) e a Terapia de Aceitação e Compromisso (ACT), componentes da 'terceira onda' da TCC. Ajuda a reduzir a ruminação, aumentar a autoconsciência, melhorar a regulação emocional e diminuir a reatividade ao estresse.",
+    "price": 23,
+    "category": "TCC",
+    "iconName": "Heart"
+  },
+  {
+    "id": "aceitacao-na-tcc-de-3a-onda",
+    "name": "Aceitação (na TCC de 3ª Onda)",
+    "basicDescription": "A disposição para experienciar pensamentos, sentimentos e sensações difíceis sem lutar contra eles, como parte de uma vida significativa.",
+    "complexDescription": "No contexto das terapias cognitivo-comportamentais de terceira onda, como a Terapia de Aceitação e Compromisso (ACT), a aceitação não significa resignação ou gostar de experiências desagradáveis. Refere-se à habilidade de acolher ativamente pensamentos, sentimentos, memórias e sensações corporais desconfortáveis ou dolorosas, sem tentar eliminá-los, suprimi-los ou lutar contra eles. A ideia central é que a luta excessiva contra experiências internas inevitáveis (como ansiedade, tristeza ou pensamentos negativos) consome energia, paradoxalmente amplifica o sofrimento e impede o engajamento em ações valiosas. A aceitação envolve reconhecer essas experiências como parte da condição humana, permitindo que elas venham e vão sem dominarem o comportamento. Cultivar a aceitação libera recursos psicológicos para que a pessoa possa se concentrar em agir de acordo com seus valores e construir uma vida rica e significativa, mesmo na presença de dificuldades.",
+    "price": 26,
+    "category": "TCC",
+    "iconName": "Shield"
+  },
+  {
+    "id": "prevencao-de-recaida",
+    "name": "Prevenção de Recaída",
+    "basicDescription": "Estratégias e planos desenvolvidos ao final da TCC para ajudar a manter os ganhos terapêuticos e lidar com futuros desafios ou lapsos.",
+    "complexDescription": "A prevenção de recaída é uma fase crucial no final do processo terapêutico da TCC. Seu objetivo é consolidar as habilidades aprendidas durante a terapia e preparar o paciente para lidar com potenciais contratempos ou o ressurgimento de sintomas no futuro, de forma independente. Isso geralmente envolve: revisar o progresso feito e as estratégias que foram mais úteis; identificar situações de alto risco, gatilhos ou sinais de alerta precoces que possam indicar uma possível recaída; desenvolver um plano de ação específico para lidar com esses sinais ou situações (por exemplo, retomar o uso de RPDs, praticar técnicas de relaxamento, reativar comportamentos saudáveis, entrar em contato com a rede de apoio ou mesmo com o terapeuta para sessões de reforço); e normalizar a ideia de que 'lapsos' (deslizes temporários) podem ocorrer e não significam um fracasso total, mas sim uma oportunidade de aplicar as habilidades aprendidas. O plano de prevenção de recaída funciona como um 'kit de primeiros socorros' psicológico.",
+    "price": 20,
+    "category": "TCC",
+    "iconName": "Brain"
+  },
+  {
+    "id": "condicionamento-classico-pavloviano",
+    "name": "Condicionamento Clássico (Pavloviano)",
+    "basicDescription": "Um tipo de aprendizagem onde um estímulo neutro passa a evocar uma resposta após ser associado repetidamente a um estímulo que já a produz naturalmente.",
+    "complexDescription": "Descoberto por Ivan Pavlov em seus experimentos com cães, o condicionamento clássico é um processo fundamental de aprendizagem por associação. Ocorre quando um estímulo inicialmente neutro (SN), que não provoca uma resposta específica (ex: o som de um sino), é apresentado repetidamente junto com um estímulo incondicionado (US), que naturalmente e automaticamente evoca uma resposta reflexa ou emocional, chamada resposta incondicionada (UR) (ex: comida US -> salivação UR). Após várias dessas associações (pareamentos), o estímulo que era neutro (sino) torna-se um estímulo condicionado (CS), capaz de evocar por si só uma resposta semelhante à original, agora chamada de resposta condicionada (CR) (ex: sino CS -> salivação CR). Esse tipo de aprendizagem é involuntário e frequentemente envolve respostas fisiológicas ou emocionais, explicando como desenvolvemos medos (fobias), gostos, aversões e reações emocionais a sinais que antes eram neutros em nosso ambiente.",
+    "price": 13,
+    "category": "Psicologia Comportamental",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "condicionamento-operante-skinneriano",
+    "name": "Condicionamento Operante (Skinneriano)",
+    "basicDescription": "Um tipo de aprendizagem onde a probabilidade de um comportamento ocorrer aumenta ou diminui com base em suas consequências (reforço ou punição).",
+    "complexDescription": "Desenvolvido extensivamente por B.F. Skinner, o condicionamento operante foca em como as consequências de um comportamento voluntário (o 'operante') afetam a probabilidade de ele ser repetido no futuro. Se um comportamento é seguido por uma consequência agradável ou pela remoção de algo desagradável (reforço), ele tende a ser fortalecido. Se é seguido por uma consequência desagradável ou pela remoção de algo agradável (punição), ele tende a ser enfraquecido. A 'Caixa de Skinner' foi um aparato crucial para estudar esses princípios, permitindo observar como ratos ou pombos aprendiam a pressionar barras ou bicar discos para obter comida (reforço) ou evitar choques (reforço negativo). O condicionamento operante explica uma vasta gama de comportamentos aprendidos, desde hábitos cotidianos e habilidades motoras até comportamentos sociais complexos e a gestão de comportamentos em contextos educacionais ou terapêuticos (como na Análise do Comportamento Aplicada - ABA).",
+    "price": 16,
+    "category": "Psicologia Comportamental",
+    "iconName": "Zap"
+  },
+  {
+    "id": "reforco-positivo-e-negativo",
+    "name": "Reforço (Positivo e Negativo)",
+    "basicDescription": "Processo no condicionamento operante que aumenta a probabilidade de um comportamento ocorrer novamente.",
+    "complexDescription": "Reforço é qualquer consequência que fortalece o comportamento que o precede, tornando-o mais provável no futuro. Existem dois tipos: 1) Reforço Positivo: ocorre quando um estímulo agradável ou desejável é apresentado *após* o comportamento (ex: dar um elogio a uma criança por arrumar o quarto aumenta a chance dela arrumar novamente). 'Positivo' aqui significa adicionar algo. 2) Reforço Negativo: ocorre quando um estímulo aversivo ou desagradável é *removido* após o comportamento (ex: tomar um analgésico para aliviar a dor de cabeça aumenta a chance de tomar o analgésico novamente quando tiver dor; apertar o cinto de segurança para parar o som irritante do aviso do carro). 'Negativo' aqui significa subtrair algo (o estímulo aversivo). Ambos os tipos de reforço aumentam a frequência do comportamento. Compreender o reforço é essencial para moldar comportamentos em diversas áreas, como educação, treinamento de animais e terapia.",
+    "price": 11,
+    "category": "Psicologia Comportamental",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "punicao-positiva-e-negativa",
+    "name": "Punição (Positiva e Negativa)",
+    "basicDescription": "Processo no condicionamento operante que diminui a probabilidade de um comportamento ocorrer novamente.",
+    "complexDescription": "Punição é qualquer consequência que enfraquece o comportamento que o precede, tornando-o menos provável no futuro. Assim como o reforço, existem dois tipos: 1) Punição Positiva: ocorre quando um estímulo aversivo ou desagradável é *apresentado* após o comportamento (ex: dar uma bronca em um funcionário por chegar atrasado visa diminuir a chance de atrasos futuros). 'Positivo' significa adicionar algo (o estímulo aversivo). 2) Punição Negativa: ocorre quando um estímulo agradável ou desejável é *removido* após o comportamento (ex: retirar o privilégio de usar o videogame de um adolescente por não fazer a lição de casa visa diminuir a chance dele não fazer a lição). 'Negativo' significa subtrair algo (o estímulo agradável). Ambos os tipos de punição diminuem a frequência do comportamento. Embora a punição possa suprimir comportamentos indesejados rapidamente, ela pode ter efeitos colaterais negativos (medo, ansiedade, agressão) e geralmente é considerada menos eficaz a longo prazo do que o reforço de comportamentos alternativos desejáveis.",
+    "price": 11,
+    "category": "Psicologia Comportamental",
+    "iconName": "Smile"
+  },
+  {
+    "id": "aprendizagem-observacional-modelagem",
+    "name": "Aprendizagem Observacional (Modelagem)",
+    "basicDescription": "Aprender observando o comportamento de outras pessoas (modelos) e as consequências que elas recebem por suas ações.",
+    "complexDescription": "Proposta prominentemente por Albert Bandura em sua Teoria Social Cognitiva, a aprendizagem observacional (ou modelagem) destaca que não aprendemos apenas por experiência direta (condicionamento clássico e operante), mas também observando os outros. Aprendemos novas habilidades, atitudes e respostas emocionais ao observar modelos (pais, professores, colegas, personagens da mídia). O processo envolve quatro etapas: 1) Atenção: prestar atenção ao comportamento do modelo. 2) Retenção: lembrar o que foi observado. 3) Reprodução: ter a capacidade física e mental para replicar o comportamento. 4) Motivação: ter uma razão (geralmente baseada nas consequências observadas no modelo - reforço vicariante ou punição vicariante) para realizar o comportamento. Os famosos experimentos do 'João Bobo' de Bandura demonstraram como crianças aprendiam comportamentos agressivos simplesmente observando um adulto agredir o boneco. Este conceito é crucial para entender a socialização, a aquisição de papéis sociais e a influência da mídia.",
+    "price": 20,
+    "category": "Psicologia Social Cognitiva",
+    "iconName": "Users"
+  },
+  {
+    "id": "autoeficacia",
+    "name": "Autoeficácia",
+    "basicDescription": "A crença na própria capacidade de organizar e executar as ações necessárias para alcançar objetivos específicos.",
+    "complexDescription": "Também um conceito central na Teoria Social Cognitiva de Albert Bandura, a autoeficácia refere-se à confiança que um indivíduo tem em sua habilidade para ter sucesso em situações específicas ou realizar tarefas. Não se trata da habilidade real, mas da crença sobre a própria habilidade. Pessoas com alta autoeficácia tendem a encarar tarefas desafiadoras como algo a ser dominado, estabelecem metas mais altas, empenham mais esforço, persistem diante de dificuldades e se recuperam mais rapidamente de contratempos. Em contraste, pessoas com baixa autoeficácia tendem a evitar tarefas difíceis, têm aspirações mais baixas e desistem facilmente. A autoeficácia é específica para domínios (pode-se ter alta autoeficácia acadêmica, mas baixa autoeficácia social) e é influenciada por quatro fontes principais: experiências de maestria (sucessos passados), aprendizagem vicariante (observar outros terem sucesso), persuasão social (encorajamento de outros) e estados fisiológicos e emocionais (interpretação de sinais como ansiedade).",
+    "price": 25,
+    "category": "Psicologia Social Cognitiva",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "locus-de-controle",
+    "name": "Locus de Controle",
+    "basicDescription": "A percepção de uma pessoa sobre o quanto ela acredita ter controle sobre os eventos em sua vida (interno vs. externo).",
+    "complexDescription": "Proposto por Julian Rotter, o locus de controle é uma crença sobre as causas dos eventos na vida. Pessoas com um Locus de Controle Interno acreditam que têm controle pessoal sobre suas vidas e que suas ações, esforços e habilidades determinam seus resultados (sucessos e fracassos). Elas tendem a ser mais proativas, independentes e a lidar melhor com o estresse. Por outro lado, pessoas com um Locus de Controle Externo acreditam que suas vidas são controladas por forças externas, como sorte, destino, outras pessoas poderosas ou circunstâncias imprevisíveis. Elas podem se sentir mais impotentes, passivas e propensas a atribuir resultados a fatores fora de seu controle. O locus de controle é visto como um espectro, não uma dicotomia absoluta, e pode variar em diferentes domínios da vida. Ter um locus de controle predominantemente interno está geralmente associado a maior bem-estar psicológico e desempenho.",
+    "price": 18,
+    "category": "Psicologia da Personalidade",
+    "iconName": "Target"
+  },
+  {
+    "id": "dissonancia-cognitiva",
+    "name": "Dissonância Cognitiva",
+    "basicDescription": "O desconforto mental que sentimos quando temos duas crenças, atitudes ou comportamentos conflitantes.",
+    "complexDescription": "Proposta por Leon Festinger, a teoria da dissonância cognitiva afirma que experimentamos um estado de tensão psicológica desagradável (dissonância) quando mantemos cognições (pensamentos, crenças, atitudes) inconsistentes ou quando nosso comportamento entra em conflito com nossas atitudes. Por exemplo, uma pessoa que fuma (comportamento) apesar de saber que fumar causa câncer (crença) experimenta dissonância. Como esse estado é desconfortável, somos motivados a reduzi-lo. Isso pode ser feito de várias maneiras: mudando o comportamento (parar de fumar), mudando uma das cognições dissonantes (minimizar os riscos do fumo - 'nem todo mundo que fuma tem câncer'), ou adicionando novas cognições para justificar o comportamento ('fumar me relaxa, o que é bom para a saúde'). A dissonância cognitiva explica por que muitas vezes mudamos nossas atitudes para se alinharem com nossos comportamentos, especialmente após tomarmos decisões difíceis ou agirmos de forma contrária às nossas crenças.",
+    "price": 23,
+    "category": "Psicologia Social",
+    "iconName": "Scale"
+  },
+  {
+    "id": "erro-fundamental-de-atribuicao",
+    "name": "Erro Fundamental de Atribuição",
+    "basicDescription": "A tendência de superestimar fatores da personalidade (disposicionais) e subestimar fatores situacionais ao explicar o comportamento dos outros.",
+    "complexDescription": "O erro fundamental de atribuição (ou viés de correspondência) é um viés comum na percepção social. Ao observarmos o comportamento de outra pessoa, temos uma forte tendência a atribuí-lo a características internas dela (sua personalidade, caráter, intenções), dando menos peso ao poder da situação ou do contexto em que o comportamento ocorreu. Por exemplo, se vemos alguém tropeçar, somos mais propensos a pensar 'ele é desajeitado' (atribuição disposicional) do que 'o chão devia estar escorregadio' (atribuição situacional). Curiosamente, esse erro é menos comum quando explicamos nosso próprio comportamento, onde tendemos a dar mais ênfase a fatores situacionais (isso é chamado de viés ator-observador). Esse viés pode levar a julgamentos imprecisos sobre os outros, reforçar estereótipos e dificultar a empatia, pois não consideramos adequadamente as pressões contextuais que podem estar influenciando o comportamento alheio.",
+    "price": 20,
+    "category": "Psicologia Social",
+    "iconName": "Compass"
+  },
+  {
+    "id": "conformidade-asch",
+    "name": "Conformidade (Asch)",
+    "basicDescription": "Ajustar nosso comportamento ou pensamento para coincidir com o de um grupo, mesmo que discordemos.",
+    "complexDescription": "A conformidade é um tipo de influência social que envolve mudar o próprio comportamento ou crenças para se alinhar com os de um grupo, devido à pressão real ou imaginada desse grupo. Os estudos clássicos de Solomon Asch (1950s) demonstraram o poder da conformidade. Nesses experimentos, participantes eram solicitados a julgar o comprimento de linhas, mas estavam em um grupo com 'cúmplices' do experimentador que davam respostas obviamente erradas em certas tentativas. Surpreendentemente, muitos participantes se conformavam com a resposta incorreta do grupo, mesmo sabendo que estava errada, para evitar o desconforto de discordar ou parecer diferente. Existem duas razões principais para a conformidade: influência social informacional (acreditar que o grupo tem informações corretas) e influência social normativa (desejo de ser aceito e evitar rejeição pelo grupo). A conformidade mostra como a pressão do grupo pode levar as pessoas a agir contra seu próprio julgamento.",
+    "price": 19,
+    "category": "Psicologia Social",
+    "iconName": "Heart"
+  },
+  {
+    "id": "obediencia-milgram",
+    "name": "Obediência (Milgram)",
+    "basicDescription": "Cumprir ordens ou comandos de uma figura de autoridade, mesmo que entrem em conflito com a própria consciência.",
+    "complexDescription": "A obediência à autoridade foi dramaticamente investigada por Stanley Milgram em seus controversos experimentos nos anos 1960. Participantes foram instruídos por uma figura de autoridade (o experimentador) a administrar choques elétricos progressivamente mais fortes a outra pessoa (um ator que apenas fingia sentir dor) sempre que esta errasse respostas em uma tarefa de memória. Apesar do aparente sofrimento extremo da 'vítima', uma porcentagem chocantemente alta de participantes continuou a administrar os choques até o nível máximo, simplesmente porque a autoridade lhes dizia para continuar. Os estudos de Milgram revelaram o poder situacional da autoridade em compelir comportamentos que violam normas morais pessoais. Fatores que influenciavam a obediência incluíam a legitimidade percebida da autoridade, a proximidade da vítima e a presença de outros que desobedeciam. Esses experimentos levantam questões profundas sobre responsabilidade pessoal, consciência e a influência de figuras de autoridade.",
+    "price": 27,
+    "category": "Psicologia Social",
+    "iconName": "Shield"
+  },
+  {
+    "id": "efeito-espectador-bystander-effect",
+    "name": "Efeito Espectador (Bystander Effect)",
+    "basicDescription": "A tendência de uma pessoa ser menos propensa a ajudar uma vítima quando outras pessoas estão presentes.",
+    "complexDescription": "O efeito espectador, pesquisado por Latané e Darley após o caso de Kitty Genovese, descreve o fenômeno social onde a probabilidade de um indivíduo intervir em uma situação de emergência diminui à medida que o número de outros espectadores presentes aumenta. Isso ocorre devido a dois processos psicológicos principais: 1) Difusão de Responsabilidade: Com mais pessoas presentes, cada indivíduo sente menos responsabilidade pessoal para agir, assumindo que outra pessoa vai ajudar ou já ajudou. 2) Ignorância Pluralista: Em situações ambíguas, as pessoas olham para as reações dos outros para interpretar a situação. Se ninguém mais parece preocupado ou age, cada pessoa pode concluir que não há uma emergência real, mesmo que internamente esteja incerta ou preocupada. Esse efeito destaca como a presença de outros pode inibir o comportamento pró-social (ajuda), mesmo em situações onde a ajuda é claramente necessária.",
+    "price": 21,
+    "category": "Psicologia Social",
+    "iconName": "Brain"
+  },
+  {
+    "id": "teoria-do-apego-bowlbyainsworth",
+    "name": "Teoria do Apego (Bowlby/Ainsworth)",
+    "basicDescription": "Explica a importância do vínculo emocional profundo entre um bebê e seu cuidador principal para o desenvolvimento socioemocional.",
+    "complexDescription": "Desenvolvida por John Bowlby e posteriormente expandida por Mary Ainsworth, a teoria do apego postula que os bebês humanos nascem com uma necessidade biológica inata de formar um vínculo emocional forte com um cuidador principal (geralmente a mãe), que serve como uma 'base segura' para explorar o mundo e uma fonte de conforto em momentos de estresse. A qualidade desse primeiro relacionamento de apego tem implicações duradouras para o desenvolvimento social, emocional e da personalidade. Ainsworth, através do procedimento da 'Situação Estranha', identificou diferentes padrões de apego: Seguro (bebê usa o cuidador como base segura, se angustia com a separação, mas se acalma com o retorno), Inseguro Evitativo (bebê explora pouco, mostra pouca angústia na separação e evita o cuidador no retorno), Inseguro Ambivalente/Resistente (bebê é ansioso, muito angustiado com a separação, mas ambivalente ou resistente no retorno) e, posteriormente, Desorganizado (comportamentos contraditórios e desorientados). Esses padrões tendem a influenciar os relacionamentos futuros.",
+    "price": 29,
+    "category": "Desenvolvimento Humano",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "estagios-do-desenvolvimento-cognitivo-piaget",
+    "name": "Estágios do Desenvolvimento Cognitivo (Piaget)",
+    "basicDescription": "Teoria de Jean Piaget que descreve quatro estágios qualitativamente diferentes pelos quais o pensamento infantil se desenvolve.",
+    "complexDescription": "Jean Piaget propôs uma teoria influente sobre como a inteligência e as habilidades de pensamento das crianças se desenvolvem através de uma série de estágios universais e sequenciais. Ele acreditava que as crianças constroem ativamente seu conhecimento sobre o mundo através da interação com ele, usando processos de assimilação (incorporar novas informações em esquemas existentes) e acomodação (modificar esquemas existentes para novas informações). Os quatro estágios são: 1) Sensório-Motor (0-2 anos): A criança entende o mundo através dos sentidos e ações motoras; desenvolve a permanência do objeto. 2) Pré-Operacional (2-7 anos): A criança usa símbolos (linguagem), mas o pensamento é egocêntrico e não lógico; dificuldade com conservação. 3) Operações Concretas (7-11 anos): A criança pensa logicamente sobre eventos concretos; entende conservação, mas tem dificuldade com o pensamento abstrato. 4) Operações Formais (12+ anos): Desenvolve pensamento abstrato, hipotético-dedutivo e raciocínio científico. A teoria de Piaget revolucionou o estudo do desenvolvimento infantil, embora alguns detalhes (idades, universalidade) tenham sido revisados.",
+    "price": 25,
+    "category": "Desenvolvimento Humano",
+    "iconName": "Zap"
+  },
+  {
+    "id": "zona-de-desenvolvimento-proximal-vygotsky",
+    "name": "Zona de Desenvolvimento Proximal (Vygotsky)",
+    "basicDescription": "A diferença entre o que uma criança pode fazer sozinha e o que ela pode fazer com a ajuda de alguém mais experiente.",
+    "complexDescription": "Proposta por Lev Vygotsky em sua teoria sociocultural do desenvolvimento cognitivo, a Zona de Desenvolvimento Proximal (ZDP) é um conceito central para entender a aprendizagem e a instrução. Representa o espaço entre o nível de desenvolvimento real da criança (o que ela consegue realizar de forma independente) e o seu nível de desenvolvimento potencial (o que ela pode realizar com orientação de um adulto ou em colaboração com colegas mais capazes – os 'outros mais conhecedores'). A aprendizagem, segundo Vygotsky, ocorre mais eficazmente dentro dessa zona, onde a criança está sendo desafiada, mas recebe o suporte necessário (andaime ou 'scaffolding') para dominar novas habilidades ou conceitos que ainda não consegue dominar sozinha. A ZDP enfatiza a natureza social da aprendizagem e o papel crucial da interação social e da linguagem na mediação do desenvolvimento cognitivo. Implica que a instrução deve mirar um pouco além do nível atual da criança para promover o crescimento.",
+    "price": 23,
+    "category": "Desenvolvimento Humano",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "modelo-dos-cinco-grandes-fatores-big-five",
+    "name": "Modelo dos Cinco Grandes Fatores (Big Five)",
+    "basicDescription": "Modelo de personalidade amplamente aceito que descreve traços básicos em cinco dimensões: Abertura, Conscienciosidade, Extroversão, Amabilidade e Neuroticismo (OCEAN).",
+    "complexDescription": "O Modelo dos Cinco Grandes Fatores (ou Big Five) é a taxonomia dominante na psicologia da personalidade contemporânea, sugerindo que a maioria das diferenças individuais na personalidade pode ser descrita em termos de cinco dimensões amplas e relativamente estáveis ao longo do tempo. Essas dimensões são: 1) Abertura à Experiência (curiosidade intelectual, imaginação, apreciação pela arte vs. convencionalismo, preferência pela rotina). 2) Conscienciosidade (organização, disciplina, responsabilidade, planejamento vs. impulsividade, desorganização). 3) Extroversão (sociabilidade, assertividade, busca por excitação, emoções positivas vs. introversão, reserva). 4) Amabilidade (cooperação, empatia, confiança, altruísmo vs. antagonismo, ceticismo). 5) Neuroticismo (tendência a experienciar emoções negativas como ansiedade, raiva, tristeza, vulnerabilidade vs. estabilidade emocional). A posição de uma pessoa em cada uma dessas cinco dimensões (geralmente medida por questionários) fornece um perfil abrangente de sua personalidade. Este modelo tem forte base empírica e transcultural.",
+    "price": 27,
+    "category": "Psicologia da Personalidade",
+    "iconName": "Smile"
+  },
+  {
+    "id": "id-ego-superego-freud",
+    "name": "Id, Ego, Superego (Freud)",
+    "basicDescription": "Modelo estrutural da personalidade na teoria psicanalítica de Freud, representando impulsos básicos (Id), realidade (Ego) e moralidade (Superego).",
+    "complexDescription": "Sigmund Freud propôs um modelo tripartite da estrutura da psique humana. O Id é a parte mais primitiva e inconsciente, operando pelo princípio do prazer, buscando gratificação imediata de impulsos biológicos e instintivos (libido e agressão). É ilógico e amoral. O Superego representa a moralidade internalizada, os ideais e padrões sociais aprendidos dos pais e da sociedade (consciência). Busca a perfeição e julga as ações, gerando culpa ou orgulho. Opera em parte consciente e em parte inconsciente. O Ego é o componente largamente consciente e racional da personalidade, que opera pelo princípio da realidade. Sua função é mediar as demandas conflitantes do Id (querer agora!), do Superego (isso é errado!) e da realidade externa (isso é possível/seguro?). O Ego usa a lógica, a percepção e a memória para encontrar maneiras realistas e socialmente aceitáveis de satisfazer os impulsos do Id, sem violar excessivamente os padrões do Superego. Conflitos não resolvidos entre essas três instâncias gerariam ansiedade e o uso de mecanismos de defesa.",
+    "price": 26,
+    "category": "Psicanálise",
+    "iconName": "Users"
+  },
+  {
+    "id": "mecanismos-de-defesa",
+    "name": "Mecanismos de Defesa",
+    "basicDescription": "Estratégias psicológicas inconscientes usadas pelo Ego para proteger a pessoa da ansiedade gerada por conflitos internos ou estressores externos.",
+    "complexDescription": "Na teoria psicanalítica, os mecanismos de defesa são táticas inconscientes que o Ego emprega para reduzir a ansiedade, distorcendo ou negando a realidade de alguma forma. Eles surgem quando as demandas do Id, as restrições do Superego ou as ameaças do mundo externo se tornam esmagadoras. Embora possam ser adaptativos a curto prazo, o uso excessivo ou rígido pode impedir o enfrentamento realista dos problemas. Alguns mecanismos comuns incluem: Repressão (manter pensamentos/memórias ameaçadoras fora da consciência), Negação (recusar-se a aceitar uma realidade dolorosa), Projeção (atribuir os próprios impulsos/sentimentos inaceitáveis a outros), Racionalização (criar explicações lógicas para comportamentos motivados por impulsos inaceitáveis), Deslocamento (redirecionar impulsos para um alvo mais seguro), Formação Reativa (agir de forma oposta aos impulsos reais), Sublimação (canalizar impulsos inaceitáveis para atividades socialmente aceitáveis – considerado um mecanismo maduro). Anna Freud elaborou e expandiu a lista original de mecanismos propostos por seu pai.",
+    "price": 24,
+    "category": "Psicanálise",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "hierarquia-das-necessidades-maslow",
+    "name": "Hierarquia das Necessidades (Maslow)",
+    "basicDescription": "Teoria humanista de Abraham Maslow que organiza as necessidades humanas em uma pirâmide, desde as básicas (fisiológicas) até a autorrealização.",
+    "complexDescription": "Abraham Maslow, um dos fundadores da psicologia humanista, propôs que a motivação humana é impulsionada por uma hierarquia de necessidades, frequentemente representada como uma pirâmide. Na base estão as necessidades fisiológicas mais básicas (fome, sede, sono). Uma vez satisfeitas, surgem as necessidades de segurança (proteção, estabilidade, ordem). Em seguida, vêm as necessidades sociais ou de pertencimento (amor, amizade, aceitação). Acima destas, estão as necessidades de estima (autoestima, respeito dos outros, reconhecimento, competência). No topo da hierarquia está a necessidade de autorrealização, que é o desejo de realizar todo o próprio potencial, tornar-se tudo o que se é capaz de ser, buscar crescimento pessoal e experiências culminantes. Maslow acreditava que as necessidades de nível inferior devem ser minimamente satisfeitas antes que as de nível superior se tornem motivadores primários. Embora a rigidez da hierarquia seja debatida, a teoria destaca a importância de diferentes níveis de motivação humana, culminando na busca por significado e crescimento.",
+    "price": 20,
+    "category": "Psicologia Humanista",
+    "iconName": "Target"
+  },
+  {
+    "id": "autorrealizacao",
+    "name": "Autorrealização",
+    "basicDescription": "O processo de realizar plenamente o próprio potencial e se tornar a melhor versão de si mesmo; o nível mais alto na hierarquia de Maslow.",
+    "complexDescription": "A autorrealização (ou autoatualização) é o ápice da hierarquia das necessidades de Maslow e um conceito central na psicologia humanista (também enfatizado por Carl Rogers). Representa a motivação intrínseca para o crescimento pessoal, a autonomia e a realização do potencial único de cada indivíduo. Pessoas em processo de autorrealização, segundo Maslow, tendem a ser realistas, autoaceitas, espontâneas, focadas em problemas externos a si mesmas, independentes, com capacidade para experiências culminantes (momentos de intensa alegria, êxtase ou insight), e com um forte senso ético. Não é um estado final a ser alcançado, mas um processo contínuo de se tornar mais plenamente humano e viver de acordo com os próprios valores e capacidades. Alcançar a autorrealização plena seria raro, mas a tendência para ela seria inata, embora possa ser frustrada por necessidades inferiores não satisfeitas ou por condições sociais adversas.",
+    "price": 28,
+    "category": "Psicologia Humanista",
+    "iconName": "Scale"
+  },
+  {
+    "id": "inteligencia-emocional-ie",
+    "name": "Inteligência Emocional (IE)",
+    "basicDescription": "A capacidade de perceber, compreender, gerenciar e usar as emoções de forma eficaz em si mesmo e nos relacionamentos com os outros.",
+    "complexDescription": "Popularizada por Daniel Goleman, mas baseada em trabalhos anteriores de Salovey e Mayer, a inteligência emocional (IE ou QE - Quociente Emocional) refere-se a um conjunto de habilidades relacionadas ao processamento de informações emocionais. Geralmente inclui quatro componentes principais: 1) Percepção Emocional: Habilidade de identificar emoções em si mesmo e nos outros (através de expressões faciais, tom de voz, etc.). 2) Uso das Emoções para Facilitar o Pensamento: Habilidade de aproveitar as emoções para auxiliar em tarefas cognitivas como resolução de problemas e criatividade. 3) Compreensão Emocional: Habilidade de entender informações emocionais complexas, como as causas das emoções, as relações entre elas e suas transições. 4) Gerenciamento Emocional: Habilidade de regular as próprias emoções e de influenciar as emoções dos outros de forma adaptativa. A IE é considerada importante para o sucesso pessoal e profissional, influenciando a qualidade dos relacionamentos, a liderança, o bem-estar e o desempenho no trabalho.",
+    "price": 25,
+    "category": "Psicologia Geral",
+    "iconName": "Compass"
+  },
+  {
+    "id": "efeito-placebo",
+    "name": "Efeito Placebo",
+    "basicDescription": "Um fenômeno onde uma pessoa experimenta um benefício real (físico ou psicológico) após receber um tratamento inerte (placebo), devido à crença nesse tratamento.",
+    "complexDescription": "O efeito placebo ocorre quando as expectativas positivas de um paciente em relação a um tratamento levam a uma melhora real em seus sintomas, mesmo que o tratamento em si não tenha propriedades terapêuticas ativas (ex: uma pílula de açúcar, uma injeção de soro fisiológico). Acredita-se que mecanismos psicológicos (expectativa, condicionamento clássico – associar o ato de tomar um remédio com alívio) e neurobiológicos (liberação de endorfinas, ativação de certas áreas cerebrais associadas à recompensa e modulação da dor) estejam envolvidos. O efeito placebo é um fator importante em pesquisas clínicas, onde novos tratamentos precisam demonstrar eficácia superior ao placebo para serem aprovados (estudos randomizados controlados com placebo). Embora demonstre o poderoso link entre mente e corpo, o uso de placebos na prática clínica levanta questões éticas sobre engano, mas também destaca o potencial terapêutico das expectativas e da relação médico-paciente.",
+    "price": 17,
+    "category": "Psicologia da Saúde",
+    "iconName": "Heart"
+  },
+  {
+    "id": "neuronios-espelho",
+    "name": "Neurônios Espelho",
+    "basicDescription": "Células cerebrais que disparam tanto quando realizamos uma ação quanto quando observamos outra pessoa realizar a mesma ação.",
+    "complexDescription": "Descobertos inicialmente em macacos e depois identificados em humanos (através de técnicas de neuroimagem), os neurônios espelho são uma classe de neurônios que se tornam ativos tanto durante a execução de uma ação direcionada a um objetivo (ex: pegar uma xícara) quanto durante a observação de outra pessoa realizando essa mesma ação. Acredita-se que esse sistema 'espelho' desempenhe um papel crucial em várias funções cognitivas e sociais, incluindo: compreensão das ações e intenções dos outros (simulando internamente a ação observada), aprendizagem por imitação, empatia (sentir o que o outro sente, possivelmente através da simulação das expressões emocionais observadas) e desenvolvimento da linguagem. Disfunções no sistema de neurônios espelho têm sido hipotetizadas como um possível fator em condições como o autismo, embora esta seja uma área de pesquisa ainda em desenvolvimento e debate.",
+    "price": 30,
+    "category": "Neurociência",
+    "iconName": "Shield"
+  },
+  {
+    "id": "plasticidade-cerebral-neuroplasticidade",
+    "name": "Plasticidade Cerebral (Neuroplasticidade)",
+    "basicDescription": "A capacidade do cérebro de mudar sua estrutura e função em resposta à experiência, aprendizagem, desenvolvimento ou lesão.",
+    "complexDescription": "A neuroplasticidade refere-se à notável habilidade do cérebro de se reorganizar formando novas conexões neurais (sinapses) e, em alguns casos, até criando novos neurônios (neurogênese, principalmente no hipocampo) ao longo da vida. Essa capacidade permite que o cérebro se adapte a novas informações, aprenda novas habilidades, armazene memórias e se recupere de lesões (ex: após um AVC, outras áreas do cérebro podem assumir funções perdidas). A plasticidade ocorre em diferentes níveis, desde mudanças microscópicas nas sinapses (plasticidade sináptica, como na potenciação de longa duração - LTP) até reorganizações corticais em larga escala (plasticidade cortical). Fatores como aprendizagem, treinamento, meditação, exercício físico e o ambiente podem promover a plasticidade. Entender a neuroplasticidade é fundamental para a neurociência, a psicologia e a reabilitação neurológica, mostrando que o cérebro é um órgão dinâmico e adaptável, e não estático após a infância.",
+    "price": 31,
+    "category": "Neurociência",
+    "iconName": "Brain"
+  },
+  {
+    "id": "ritmos-circadianos",
+    "name": "Ritmos Circadianos",
+    "basicDescription": "Ciclos biológicos de aproximadamente 24 horas que regulam processos como o sono-vigília, temperatura corporal e liberação de hormônios.",
+    "complexDescription": "Os ritmos circadianos (do latim 'circa diem', cerca de um dia) são flutuações regulares em processos fisiológicos e comportamentais que ocorrem em um ciclo de aproximadamente 24 horas. O exemplo mais proeminente é o ciclo sono-vigília, mas eles também governam a temperatura corporal, a pressão arterial, a secreção de hormônios (como cortisol e melatonina) e os níveis de alerta. Esses ritmos são gerados internamente por um 'relógio biológico' principal localizado no núcleo supraquiasmático (NSQ) do hipotálamo. Embora endógenos (gerados internamente), esses ritmos são sincronizados (ou 'ajustados') diariamente por pistas ambientais, principalmente o ciclo claro-escuro (luz solar). A luz detectada pela retina envia sinais ao NSQ, que então coordena os vários ritmos do corpo. Desregulações nos ritmos circadianos (causadas por trabalho em turnos, jet lag, ou distúrbios do sono) podem levar a problemas de saúde física e mental.",
+    "price": 18,
+    "category": "Neurociência e Fisiologia",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "teoria-da-mente-theory-of-mind-tom",
+    "name": "Teoria da Mente (Theory of Mind - ToM)",
+    "basicDescription": "A capacidade de entender que outras pessoas têm seus próprios pensamentos, crenças, desejos e intenções, diferentes dos nossos.",
+    "complexDescription": "A Teoria da Mente (ToM) é uma habilidade cognitiva social crucial que nos permite atribuir estados mentais – como crenças, intenções, desejos, emoções e conhecimentos – a nós mesmos e aos outros. É a compreensão de que os outros têm uma mente própria, com perspectivas e representações mentais que podem diferir das nossas e da realidade objetiva. Essa capacidade começa a se desenvolver na primeira infância e é fundamental para a comunicação eficaz, a interação social, a empatia, a compreensão de piadas, ironias, mentiras e comportamentos complexos. Testes clássicos para avaliar a ToM incluem tarefas de 'falsa crença' (como o teste de Sally-Anne), onde a criança precisa prever o comportamento de alguém com base na crença dessa pessoa, mesmo que a criança saiba que a crença é falsa. Dificuldades significativas com a Teoria da Mente são uma característica central do Transtorno do Espectro Autista (TEA), afetando a compreensão social e a interação.",
+    "price": 27,
+    "category": "Psicologia Social Cognitiva",
+    "iconName": "Zap"
+  },
+  {
+    "id": "pensamento-de-grupo-groupthink",
+    "name": "Pensamento de Grupo (Groupthink)",
+    "basicDescription": "Modo de pensar que ocorre em grupos coesos onde o desejo de harmonia ou conformidade impede a avaliação realista de alternativas.",
+    "complexDescription": "Cunhado por Irving Janis, o pensamento de grupo (groupthink) descreve um fenômeno psicológico que ocorre dentro de um grupo de pessoas no qual o desejo por harmonia ou conformidade resulta em uma tomada de decisão irracional ou disfuncional. Em um grupo afetado pelo 'groupthink', os membros tentam minimizar conflitos e alcançar consenso sem uma avaliação crítica de ideias alternativas, suprimindo ativamente pontos de vista dissidentes e isolando-se de influências externas. Sintomas incluem ilusão de invulnerabilidade, racionalização coletiva, crença na moralidade inerente do grupo, estereotipagem de oponentes, pressão direta sobre dissidentes, autocensura, ilusão de unanimidade e a emergência de 'guardiões da mente' (membros que protegem o grupo de informações contrárias). O pensamento de grupo pode levar a decisões desastrosas em contextos políticos, militares e empresariais, pois impede a análise objetiva e a consideração de riscos.",
+    "price": 24,
+    "category": "Psicologia Social",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "desamparo-aprendido-learned-helplessness",
+    "name": "Desamparo Aprendido (Learned Helplessness)",
+    "basicDescription": "Um estado psicológico onde uma pessoa ou animal aprende a se sentir impotente após exposição repetida a eventos aversivos incontroláveis.",
+    "complexDescription": "Originalmente estudado por Martin Seligman e Steven Maier em experimentos com cães, o desamparo aprendido ocorre quando um organismo é exposto repetidamente a uma situação estressante ou dolorosa da qual não pode escapar ou evitar. Após essa experiência, mesmo quando colocado em uma nova situação onde a fuga ou evitação é possível, o organismo tende a não tentar escapar, exibindo passividade e resignação. Acredita-se que ele 'aprendeu' que seus comportamentos não têm efeito sobre os resultados aversivos. Em humanos, o desamparo aprendido tem sido associado à depressão, ansiedade e baixa motivação, onde indivíduos que experienciaram eventos negativos incontroláveis podem desenvolver a crença de que são impotentes para mudar suas circunstâncias, levando a déficits motivacionais (falta de iniciativa), cognitivos (dificuldade em aprender novas respostas) e emocionais (tristeza, apatia). O modelo foi reformulado para incluir o papel das atribuições causais (explicações que as pessoas dão para os eventos).",
+    "price": 25,
+    "category": "Psicologia Comportamental",
+    "iconName": "Smile"
+  },
+  {
+    "id": "estilo-atribucional-explanatorio",
+    "name": "Estilo Atribucional (Explanatório)",
+    "basicDescription": "A maneira característica como uma pessoa explica as causas dos eventos positivos e negativos em sua vida.",
+    "complexDescription": "O estilo atribucional refere-se ao padrão consistente de como um indivíduo atribui causas a eventos, especialmente os negativos. É avaliado ao longo de três dimensões: 1) Interno vs. Externo (a causa é algo sobre mim ou sobre a situação/outros?); 2) Estável vs. Instável (a causa é permanente ou temporária?); 3) Global vs. Específico (a causa afeta muitas áreas da minha vida ou apenas esta situação?). Um estilo atribucional 'pessimista' ou 'depressogênico' tende a explicar eventos negativos com causas internas ('é minha culpa'), estáveis ('vai ser sempre assim') e globais ('isso afeta tudo na minha vida'). Em contraste, um estilo 'otimista' atribui eventos negativos a causas externas, instáveis e específicas, e eventos positivos a causas internas, estáveis e globais. O estilo atribucional está ligado ao desamparo aprendido, à depressão, à motivação e à resiliência. A TCC frequentemente trabalha na modificação de estilos atribucionais pessimistas.",
+    "price": 21,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Users"
+  },
+  {
+    "id": "facilitacao-social",
+    "name": "Facilitação Social",
+    "basicDescription": "A tendência de desempenhar melhor tarefas simples ou bem aprendidas na presença de outros, mas pior em tarefas complexas ou novas.",
+    "complexDescription": "A facilitação social, um dos primeiros fenômenos estudados na psicologia social, descreve como a presença de outras pessoas (seja como co-atores ou como uma audiência) influencia o desempenho individual. A pesquisa inicial (por exemplo, de Norman Triplett) mostrou que as pessoas pedalavam mais rápido ou enrolavam linhas de pesca mais depressa quando outras estavam presentes. No entanto, estudos posteriores revelaram que a presença de outros nem sempre melhora o desempenho; às vezes, ela o prejudica. Robert Zajonc propôs uma explicação influente: a presença de outros aumenta a excitação fisiológica (arousal). Esse aumento de excitação melhora o desempenho em tarefas simples ou bem dominadas (onde a resposta dominante é a correta), mas piora o desempenho em tarefas complexas ou novas (onde a resposta dominante pode ser incorreta). A avaliação da apreensão (preocupação em ser julgado) também desempenha um papel.",
+    "price": 17,
+    "category": "Psicologia Social",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "vadiagem-social-social-loafing",
+    "name": "Vadiagem Social (Social Loafing)",
+    "basicDescription": "A tendência das pessoas de exercerem menos esforço em uma tarefa quando trabalham em grupo do que quando trabalham sozinhas.",
+    "complexDescription": "A vadiagem social é um fenômeno grupal onde os indivíduos tendem a reduzir seu esforço pessoal quando trabalham coletivamente em uma tarefa onde suas contribuições individuais não são claramente identificáveis ou avaliadas, em comparação com o esforço que despenderiam se trabalhassem sozinhos na mesma tarefa. O estudo clássico de Max Ringelmann (puxar corda) mostrou que o esforço individual diminuía à medida que o tamanho do grupo aumentava. Acredita-se que isso ocorra porque os indivíduos sentem que sua contribuição pessoal é menos importante ou menos perceptível no contexto do grupo (difusão de responsabilidade), ou porque esperam que os outros compensem seu menor esforço (free-riding). Fatores que podem reduzir a vadiagem social incluem tornar as contribuições individuais identificáveis, aumentar a coesão do grupo, tornar a tarefa mais desafiadora ou significativa, e acreditar que o próprio esforço é essencial para o sucesso do grupo.",
+    "price": 18,
+    "category": "Psicologia Social",
+    "iconName": "Target"
+  },
+  {
+    "id": "teoria-da-autodeterminacao-self-determination-theory-sdt",
+    "name": "Teoria da Autodeterminação (Self-Determination Theory - SDT)",
+    "basicDescription": "Teoria da motivação que enfatiza três necessidades psicológicas inatas: competência, autonomia e relacionamento.",
+    "complexDescription": "Proposta por Edward Deci e Richard Ryan, a Teoria da Autodeterminação (SDT) é uma macroteoria da motivação, desenvolvimento e bem-estar humanos. Postula que todos os seres humanos têm três necessidades psicológicas básicas e universais: 1) Competência: sentir-se eficaz e capaz nas interações com o ambiente e ao buscar desafios. 2) Autonomia: sentir que as próprias ações são auto-originadas e congruentes com os próprios valores e interesses; ter um senso de volição e escolha. 3) Relacionamento (ou Vínculo): sentir-se conectado a outros, pertencente a um grupo e cuidado por outros. Segundo a SDT, a satisfação dessas três necessidades é essencial para o crescimento psicológico, a integridade, o bem-estar e a motivação ótima (especialmente a motivação intrínseca). Ambientes sociais que apoiam essas necessidades promovem maior engajamento, desempenho e saúde mental, enquanto ambientes que as frustram levam a consequências negativas.",
+    "price": 29,
+    "category": "Psicologia da Motivação",
+    "iconName": "Scale"
+  },
+  {
+    "id": "motivacao-intrinseca-vs-extrinseca",
+    "name": "Motivação Intrínseca vs. Extrínseca",
+    "basicDescription": "Fazer algo por prazer/interesse próprio (intrínseca) versus fazer algo por recompensas externas ou para evitar punição (extrínseca).",
+    "complexDescription": "Uma distinção fundamental na teoria da motivação, especialmente na Teoria da Autodeterminação. Motivação Intrínseca refere-se ao impulso para realizar uma atividade pelo prazer inerente, interesse, curiosidade ou satisfação que a própria atividade proporciona. A recompensa está na própria execução da tarefa (ex: ler um livro por puro prazer, praticar um hobby). Motivação Extrínseca refere-se ao impulso para realizar uma atividade a fim de obter um resultado externo a ela, como uma recompensa tangível (dinheiro, notas), reconhecimento social, ou para evitar uma punição. A atividade é vista como um meio para um fim. Embora a motivação extrínseca possa ser eficaz para iniciar comportamentos, a pesquisa sugere que a motivação intrínseca está associada a maior persistência, criatividade, aprendizado profundo e bem-estar. Recompensas externas podem, às vezes, minar a motivação intrínseca (efeito de superjustificação).",
+    "price": 14,
+    "category": "Psicologia da Motivação",
+    "iconName": "Compass"
+  },
+  {
+    "id": "inteligencia-fluida-vs-cristalizada",
+    "name": "Inteligência Fluida vs. Cristalizada",
+    "basicDescription": "Dois tipos de inteligência: a capacidade de raciocinar rapidamente e pensar abstratamente (fluida) vs. o conhecimento acumulado e habilidades verbais (cristalizada).",
+    "complexDescription": "Proposta por Raymond Cattell, esta teoria distingue dois componentes principais da inteligência geral. Inteligência Fluida (Gf) refere-se à capacidade de raciocinar, resolver problemas novos, identificar padrões e pensar de forma flexível e abstrata, independentemente do conhecimento adquirido anteriormente. É considerada mais dependente da biologia do sistema nervoso e tende a atingir o pico no início da idade adulta, declinando gradualmente depois. Exemplos de tarefas que medem Gf incluem sequências lógicas e matrizes de Raven. Inteligência Cristalizada (Gc) refere-se ao conhecimento acumulado, habilidades verbais, vocabulário e estratégias de resolução de problemas aprendidas através da educação e da experiência cultural. Tende a aumentar ao longo da vida ou a se manter estável na velhice, desde que a pessoa permaneça mentalmente ativa. Exemplos de tarefas que medem Gc incluem testes de vocabulário, informação geral e compreensão verbal. Ambos os tipos são importantes para o funcionamento cognitivo global.",
+    "price": 23,
+    "category": "Psicologia da Inteligência",
+    "iconName": "Heart"
+  },
+  {
+    "id": "vies-retrospectivo-hindsight-bias",
+    "name": "Viés Retrospectivo (Hindsight Bias)",
+    "basicDescription": "A tendência de acreditar, depois que um evento ocorreu, que poderíamos ter previsto ou sabíamos que ele aconteceria ('Eu já sabia!').",
+    "complexDescription": "O viés retrospectivo, também conhecido como o fenômeno 'eu-já-sabia-o-tempo-todo', é a tendência das pessoas a superestimarem sua capacidade de ter previsto um resultado depois que ele já é conhecido. Uma vez que sabemos o desfecho de um evento (seja um resultado eleitoral, um diagnóstico médico ou o fim de um filme), temos dificuldade em reconstruir nosso estado mental anterior (de incerteza) e sentimos que o resultado era mais óbvio ou previsível do que realmente era na época. Esse viés pode levar a críticas injustas sobre decisões tomadas no passado (pois julgamos com o benefício da retrospectiva), a excesso de confiança em nossa capacidade de prever o futuro e a dificuldades em aprender com os erros (pois achamos que 'já sabíamos' a resposta certa). É um viés cognitivo robusto que afeta o julgamento em diversas áreas.",
+    "price": 16,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Shield"
+  },
+  {
+    "id": "teoria-da-identidade-social",
+    "name": "Teoria da Identidade Social",
+    "basicDescription": "Teoria que explica como a pertença a grupos sociais influencia nosso autoconceito e comportamento em relação a membros do nosso grupo (endogrupo) e de outros grupos (exogrupo).",
+    "complexDescription": "Desenvolvida por Henri Tajfel e John Turner, a Teoria da Identidade Social (TIS) propõe que uma parte importante do autoconceito de um indivíduo deriva de sua percepção de pertencimento a grupos sociais relevantes (identidade social), além de suas características pessoais únicas (identidade pessoal). A teoria sugere que temos uma tendência natural a categorizar a nós mesmos e aos outros em grupos (categorização social), a nos identificarmos com os grupos aos quais pertencemos (identificação social) e a compararmos nosso grupo com outros grupos relevantes (comparação social). Buscamos uma identidade social positiva, o que nos leva a favorecer nosso próprio grupo (favoritismo endogrupal) e, às vezes, a depreciar ou discriminar contra grupos externos (preconceito exogrupal), a fim de aumentar a autoestima associada à nossa pertença grupal. A TIS ajuda a explicar fenômenos como coesão grupal, conflito intergrupal, preconceito e estereótipos.",
+    "price": 26,
+    "category": "Psicologia Social",
+    "iconName": "Brain"
+  },
+  {
+    "id": "estereotipo-preconceito-discriminacao",
+    "name": "Estereótipo, Preconceito, Discriminação",
+    "basicDescription": "Três conceitos relacionados: crenças sobre um grupo (estereótipo), atitude negativa hacia ele (preconceito) e comportamento negativo injusto (discriminação).",
+    "complexDescription": "Estes três termos são frequentemente usados de forma intercambiável, mas têm significados distintos na psicologia social. Estereótipo refere-se ao componente cognitivo: são crenças generalizadas (muitas vezes imprecisas e super-simplificadas) sobre as características, atributos e comportamentos dos membros de um determinado grupo social (ex: 'todos os políticos são corruptos'). Podem ser positivos ou negativos, mas tendem a ignorar a variação individual dentro do grupo. Preconceito refere-se ao componente afetivo: é uma atitude (geralmente negativa) pré-concebida e injustificada em relação a um grupo e seus membros, baseada unicamente na pertença a esse grupo. Envolve sentimentos como antipatia, medo ou desprezo. Discriminação refere-se ao componente comportamental: é o tratamento desigual, injusto ou prejudicial dirigido a indivíduos com base em sua pertença a um grupo específico. É o preconceito colocado em ação. Embora relacionados (estereótipos podem levar a preconceitos, que podem levar à discriminação), nem sempre ocorrem juntos.",
+    "price": 20,
+    "category": "Psicologia Social",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "efeito-de-primazia-e-recencia",
+    "name": "Efeito de Primazia e Recência",
+    "basicDescription": "A tendência de lembrar melhor os primeiros itens (primazia) e os últimos itens (recência) de uma lista ou sequência de informações.",
+    "complexDescription": "O efeito de posição serial descreve como a posição de um item em uma sequência afeta a probabilidade de ele ser lembrado. Especificamente, observa-se o Efeito de Primazia: os itens apresentados no início da lista são lembrados melhor do que os itens do meio. Isso é geralmente atribuído ao fato de que os primeiros itens têm mais tempo para serem ensaiados e transferidos para a memória de longo prazo. Também se observa o Efeito de Recência: os itens apresentados no final da lista também são lembrados melhor do que os itens do meio. Isso é atribuído ao fato de que os últimos itens ainda estão na memória de curto prazo (ou memória de trabalho) no momento do teste de recordação. Os itens do meio sofrem mais interferência e têm menos oportunidade de ensaio, sendo, portanto, os menos lembrados. Esse padrão em forma de 'U' é uma descoberta robusta na pesquisa sobre memória.",
+    "price": 13,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Zap"
+  },
+  {
+    "id": "memoria-flash-flashbulb-memory",
+    "name": "Memória Flash (Flashbulb Memory)",
+    "basicDescription": "Memórias vívidas e detalhadas de momentos em que soubemos de eventos surpreendentes, emocionalmente carregados e importantes.",
+    "complexDescription": "Memórias flash (ou memórias de lampejo) são recordações autobiográficas que parecem excepcionalmente vívidas, detalhadas e duradouras, relacionadas às circunstâncias em que uma pessoa soube pela primeira vez de um evento público chocante, surpreendente e significativo (ex: o ataque de 11 de setembro, o assassinato de uma figura pública). As pessoas geralmente conseguem relatar onde estavam, o que estavam fazendo, quem lhes contou a notícia, como se sentiram e quais foram as consequências imediatas. Embora essas memórias pareçam fotográficas e muito precisas para quem as possui, a pesquisa mostra que, apesar de sua vividez e da alta confiança das pessoas em sua exatidão, elas também podem ser incompletas, inconsistentes e sujeitas a erros e distorções ao longo do tempo, assim como outras memórias autobiográficas. A forte carga emocional e a repetição da narrativa do evento parecem contribuir para a sensação de vividez e permanência.",
+    "price": 21,
+    "category": "Psicologia Cognitiva",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "natureza-vs-criacao-nature-vs-nurture",
+    "name": "Natureza vs. Criação (Nature vs. Nurture)",
+    "basicDescription": "O debate sobre a importância relativa da herança genética (natureza) e das influências ambientais (criação) no desenvolvimento das características e comportamentos.",
+    "complexDescription": "Este é um dos debates mais antigos e fundamentais na psicologia e em outras ciências do comportamento. 'Natureza' refere-se às influências biológicas e genéticas herdadas dos pais, que moldam o desenvolvimento e as predisposições de um indivíduo (ex: temperamento, certas habilidades, risco para algumas doenças). 'Criação' refere-se a todas as influências ambientais que afetam o desenvolvimento após a concepção, incluindo experiências pré-natais, educação parental, cultura, status socioeconômico, relacionamentos com pares e eventos de vida. A visão contemporânea dominante na psicologia reconhece que a dicotomia 'natureza OU criação' é simplista. Em vez disso, entende-se que a natureza E a criação interagem de maneiras complexas para moldar quem somos. A genética pode influenciar como respondemos ao ambiente, e o ambiente pode influenciar a expressão dos genes (epigenética). A questão atual não é qual é mais importante, mas sim COMO elas interagem.",
+    "price": 31,
+    "category": "Psicologia Geral",
+    "iconName": "Smile"
+  },
+  {
+    "id": "genetica-comportamental",
+    "name": "Genética Comportamental",
+    "basicDescription": "Área da psicologia que estuda a influência da genética e do ambiente nas diferenças individuais em traços psicológicos e comportamentos.",
+    "complexDescription": "A genética comportamental utiliza métodos de pesquisa para investigar a contribuição relativa de fatores genéticos e ambientais para a variância observada em características comportamentais e psicológicas complexas, como inteligência, personalidade, transtornos mentais e habilidades cognitivas. Os métodos clássicos incluem estudos com gêmeos (comparando a semelhança entre gêmeos idênticos - monozigóticos, que compartilham 100% dos genes - e gêmeos fraternos - dizigóticos, que compartilham em média 50% dos genes) e estudos de adoção (comparando a semelhança de crianças adotadas com seus pais biológicos e adotivos). Esses estudos permitem estimar a herdabilidade de um traço – a proporção da variância observada em uma população que pode ser atribuída a diferenças genéticas. É crucial entender que a herdabilidade não se aplica a um indivíduo específico e não implica determinismo genético, pois o ambiente sempre interage com a genética.",
+    "price": 28,
+    "category": "Neurociência e Genética",
+    "iconName": "Users"
+  },
+  {
+    "id": "epigenetica",
+    "name": "Epigenética",
+    "basicDescription": "O estudo de mudanças na expressão dos genes que não envolvem alterações na sequência do DNA, muitas vezes influenciadas pelo ambiente.",
+    "complexDescription": "A epigenética explora como fatores ambientais e experiências de vida podem modificar a atividade dos genes (quais genes são 'ligados' ou 'desligados') sem alterar a sequência fundamental do DNA. Essas modificações epigenéticas (como metilação do DNA ou modificação de histonas) funcionam como 'interruptores' ou 'dimmers' que regulam a expressão gênica. Fatores como dieta, estresse, exposição a toxinas, experiências sociais precoces e envelhecimento podem induzir mudanças epigenéticas. Algumas dessas marcas epigenéticas podem ser estáveis e duradouras, influenciando a saúde, o desenvolvimento e o comportamento ao longo da vida, e há evidências de que algumas podem até ser transmitidas para a próxima geração. A epigenética oferece um mecanismo biológico chave para entender a interação natureza-criação, mostrando como o ambiente 'conversa' com nossos genes para moldar quem somos.",
+    "price": 32,
+    "category": "Neurociência e Genética",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "desenvolvimento-moral-kohlberg",
+    "name": "Desenvolvimento Moral (Kohlberg)",
+    "basicDescription": "Teoria de Lawrence Kohlberg que descreve seis estágios de raciocínio moral, agrupados em três níveis: pré-convencional, convencional e pós-convencional.",
+    "complexDescription": "Expandindo o trabalho de Piaget, Lawrence Kohlberg propôs uma teoria do desenvolvimento moral baseada nas razões que as pessoas apresentam para justificar seus julgamentos morais em dilemas hipotéticos (como o Dilema de Heinz). Ele identificou três níveis principais, cada um com dois estágios: 1) Nível Pré-Convencional: O julgamento moral é baseado nas consequências diretas para si mesmo (evitar punição, obter recompensa). Estágio 1: Orientação para Punição e Obediência. Estágio 2: Orientação Instrumental e Relativista (individualismo, troca). 2) Nível Convencional: O julgamento é baseado na conformidade com as regras e expectativas sociais (manter a ordem social, ser visto como 'bom'). Estágio 3: Orientação do 'Bom Menino/Boa Menina' (aprovação interpessoal). Estágio 4: Orientação da Lei e Ordem (manter a ordem social). 3) Nível Pós-Convencional: O julgamento é baseado em princípios éticos abstratos e universais, que podem transcender leis específicas. Estágio 5: Orientação do Contrato Social (direitos individuais, leis democraticamente aceitas). Estágio 6: Orientação dos Princípios Éticos Universais (consciência individual). Kohlberg acreditava que esses estágios são sequenciais e universais, embora nem todos alcancem os níveis mais altos.",
+    "price": 25,
+    "category": "Desenvolvimento Humano",
+    "iconName": "Target"
+  },
+  {
+    "id": "efeito-stroop",
+    "name": "Efeito Stroop",
+    "basicDescription": "A dificuldade em nomear a cor da tinta de uma palavra quando a palavra escrita é o nome de uma cor diferente (ex: a palavra 'AZUL' escrita em tinta vermelha).",
+    "complexDescription": "O efeito Stroop, demonstrado por John Ridley Stroop, é um fenômeno clássico da psicologia cognitiva que ilustra a interferência entre processos automáticos e controlados. Na tarefa típica, pede-se aos participantes que nomeiem a cor da tinta em que uma palavra está impressa, ignorando o significado da palavra. Quando a cor da tinta e o significado da palavra são congruentes (ex: a palavra 'VERMELHO' escrita em vermelho), a resposta é rápida. No entanto, quando são incongruentes (ex: a palavra 'VERMELHO' escrita em azul), a nomeação da cor da tinta (azul) torna-se significativamente mais lenta e propensa a erros. Isso ocorre porque a leitura da palavra é um processo altamente automatizado e rápido, que interfere com a tarefa mais controlada e menos automática de nomear a cor da tinta. O efeito Stroop é usado para estudar atenção seletiva, controle inibitório e velocidade de processamento.",
+    "price": 14,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Scale"
+  },
+  {
+    "id": "ancoragem-vies-de-ancoragem",
+    "name": "Ancoragem (Viés de Ancoragem)",
+    "basicDescription": "A tendência de confiar demais na primeira informação oferecida ('âncora') ao tomar decisões ou fazer julgamentos.",
+    "complexDescription": "O viés de ancoragem é uma heurística cognitiva descrita por Tversky e Kahneman. Ocorre quando indivíduos dependem excessivamente de uma informação inicial (a 'âncora') para fazer julgamentos ou estimativas subsequentes. Uma vez que a âncora é estabelecida, os ajustes feitos a partir dela tendem a ser insuficientes, mesmo que a âncora seja arbitrária ou irrelevante. Por exemplo, se perguntado se a população de uma cidade é maior ou menor que 10 milhões (âncora alta) e depois pedido para estimar a população, a estimativa tende a ser maior do que se a âncora inicial fosse 1 milhão. Esse viés afeta decisões em muitos contextos, incluindo negociações (o primeiro preço oferecido serve como âncora), estimativas numéricas, diagnósticos médicos e sentenças judiciais. Demonstra como informações iniciais, mesmo que não totalmente pertinentes, podem influenciar desproporcionalmente nossos julgamentos.",
+    "price": 18,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Compass"
+  },
+  {
+    "id": "teoria-prospectiva-prospect-theory",
+    "name": "Teoria Prospectiva (Prospect Theory)",
+    "basicDescription": "Teoria da tomada de decisão que descreve como as pessoas escolhem entre alternativas que envolvem risco, focando em ganhos e perdas percebidos em relação a um ponto de referência.",
+    "complexDescription": "Desenvolvida por Daniel Kahneman e Amos Tversky (que lhes rendeu o Prêmio Nobel de Economia para Kahneman), a Teoria Prospectiva (ou Teoria do Prospecto) oferece um modelo descritivo mais realista de como as pessoas tomam decisões sob risco, em contraste com a teoria da utilidade esperada (que é normativa). Principais características: 1) Ponto de Referência: As decisões são avaliadas em termos de ganhos e perdas relativos a um ponto de referência (geralmente o status quo), e não em termos de riqueza final. 2) Aversão à Perda: As perdas têm um impacto psicológico maior do que ganhos equivalentes (a dor de perder R$100 é maior que o prazer de ganhar R$100). 3) Sensibilidade Decrescente: A diferença subjetiva entre R$100 e R$200 parece maior do que a diferença entre R$1100 e R$1200. 4) Ponderação de Probabilidades: As pessoas tendem a superestimar probabilidades pequenas e subestimar probabilidades moderadas e altas. Essas características levam a padrões de escolha como a aversão ao risco para ganhos prováveis e a busca por risco para perdas prováveis.",
+    "price": 31,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Heart"
+  },
+  {
+    "id": "potenciacao-de-longa-duracao-ltp",
+    "name": "Potenciação de Longa Duração (LTP)",
+    "basicDescription": "Um fortalecimento duradouro das conexões (sinapses) entre neurônios, considerado um mecanismo chave para a aprendizagem e a memória no cérebro.",
+    "complexDescription": "A Potenciação de Longa Duração (LTP) é um fenômeno neurofisiológico fundamental que representa um aumento persistente na força sináptica após uma estimulação de alta frequência ou padrões específicos de atividade neural. Essencialmente, quando dois neurônios são ativados juntos repetidamente, a conexão entre eles se fortalece, tornando mais provável que a ativação do primeiro neurônio (pré-sináptico) cause a ativação do segundo (pós-sináptico) no futuro. A LTP ocorre em várias áreas do cérebro, mas é particularmente bem estudada no hipocampo, uma região crucial para a formação de novas memórias. Acredita-se que seja um dos principais mecanismos celulares subjacentes à plasticidade sináptica, que por sua vez é a base da aprendizagem e da formação de memórias. Alterações na LTP estão implicadas em distúrbios de aprendizagem e memória.",
+    "price": 29,
+    "category": "Neurociência",
+    "iconName": "Shield"
+  },
+  {
+    "id": "sindrome-geral-de-adaptacao-sga",
+    "name": "Síndrome Geral de Adaptação (SGA)",
+    "basicDescription": "Modelo de Hans Selye que descreve a resposta fisiológica do corpo ao estresse prolongado em três fases: alarme, resistência e exaustão.",
+    "complexDescription": "Hans Selye, um pioneiro na pesquisa sobre estresse, propôs a Síndrome Geral de Adaptação (SGA) para descrever o padrão trifásico de resposta do corpo a qualquer estressor prolongado (físico ou psicológico). 1) Fase de Alarme: O corpo reconhece o estressor e ativa o sistema nervoso simpático e o eixo HPA (Hipotálamo-Pituitária-Adrenal), liberando hormônios como adrenalina e cortisol. Há um aumento da frequência cardíaca, pressão arterial e níveis de energia – a resposta de 'luta ou fuga'. 2) Fase de Resistência: Se o estressor persiste, o corpo tenta se adaptar e lidar com ele. Os níveis hormonais permanecem elevados, mas a excitação fisiológica diminui ligeiramente em relação à fase de alarme. O corpo está mobilizando recursos para resistir ao estresse, mas isso tem um custo energético. 3) Fase de Exaustão: Se o estressor continua por muito tempo, as reservas de energia do corpo se esgotam. A capacidade de resistir diminui, tornando o organismo vulnerável a doenças, colapso fisiológico e, em casos extremos, morte. A SGA ajudou a estabelecer a ligação entre estresse crônico e problemas de saúde.",
+    "price": 23,
+    "category": "Psicologia da Saúde",
+    "iconName": "Brain"
+  },
+  {
+    "id": "regulacao-emocional",
+    "name": "Regulação Emocional",
+    "basicDescription": "A capacidade de gerenciar e influenciar quais emoções temos, quando as temos e como as expressamos.",
+    "complexDescription": "A regulação emocional refere-se aos processos pelos quais os indivíduos influenciam suas próprias experiências e expressões emocionais. Isso pode envolver aumentar, diminuir ou manter a intensidade ou duração de emoções positivas ou negativas, dependendo dos objetivos da pessoa. James Gross propôs um modelo influente que descreve estratégias de regulação que podem ocorrer em diferentes pontos do processo emocional: seleção da situação (evitar ou escolher situações), modificação da situação (mudar o ambiente), direcionamento da atenção (distração ou foco), mudança cognitiva (reavaliação da situação – reestruturação cognitiva) e modulação da resposta (suprimir a expressão emocional, relaxamento). Diferentes estratégias têm consequências distintas para o bem-estar e o funcionamento social. Habilidades eficazes de regulação emocional são cruciais para a saúde mental, relacionamentos interpessoais e adaptação ao ambiente, enquanto dificuldades nessa área são comuns em diversos transtornos psicológicos.",
+    "price": 25,
+    "category": "Psicologia das Emoções",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "habituacao",
+    "name": "Habituação",
+    "basicDescription": "Uma forma simples de aprendizagem onde a resposta a um estímulo diminui após exposição repetida a ele, pois ele se torna familiar ou irrelevante.",
+    "complexDescription": "A habituação é considerada uma das formas mais básicas e universais de aprendizagem não associativa. Ocorre quando um organismo gradualmente reduz ou para de responder a um estímulo que é apresentado repetidamente sem consequências significativas (positivas ou negativas). Essencialmente, o organismo aprende a ignorar estímulos familiares e inofensivos, o que é adaptativo, pois permite conservar energia e direcionar a atenção para estímulos novos ou potencialmente importantes. Por exemplo, o som constante do ar condicionado ou o tique-taque de um relógio podem ser notados inicialmente, mas logo deixam de provocar uma resposta consciente. A habituação difere da fadiga sensorial (incapacidade do órgão sensorial de responder) ou da adaptação sensorial (mudança na sensibilidade do receptor), pois é um processo que ocorre no sistema nervoso central. A taxa de habituação pode ser influenciada pela intensidade e frequência do estímulo.",
+    "price": 10,
+    "category": "Psicologia Comportamental",
+    "iconName": "Zap"
+  },
+  {
+    "id": "processamento-bottom-up-vs-top-down",
+    "name": "Processamento Bottom-Up vs. Top-Down",
+    "basicDescription": "Duas formas como nosso cérebro processa informações: começando pelos sentidos (bottom-up) ou usando conhecimento prévio e expectativas (top-down).",
+    "complexDescription": "Estes termos descrevem duas direções opostas de processamento de informações na percepção e cognição. O Processamento Bottom-Up (ascendente) inicia-se com a estimulação sensorial bruta do ambiente. Nossos receptores sensoriais (olhos, ouvidos, etc.) detectam características básicas (linhas, cores, sons) que são gradualmente combinadas e enviadas para áreas cerebrais superiores para interpretação. É um processo guiado pelos dados, onde a percepção é construída a partir das partes sensoriais. Em contraste, o Processamento Top-Down (descendente) é guiado por nossos conhecimentos, experiências passadas, expectativas, crenças e contexto. O cérebro usa essas informações de nível superior para interpretar os dados sensoriais que chegam. Por exemplo, ler uma caligrafia difícil depende do top-down (usamos o contexto da frase para decifrar palavras). Na prática, ambos os processos interagem continuamente para criar nossa percepção do mundo. O bottom-up fornece os dados brutos, e o top-down ajuda a organizá-los e dar-lhes sentido.",
+    "price": 20,
+    "category": "Psicologia Cognitiva",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "constancia-perceptual",
+    "name": "Constância Perceptual",
+    "basicDescription": "A capacidade de perceber objetos como estáveis e inalterados (em tamanho, forma, cor, brilho) apesar das mudanças na imagem sensorial que chega aos nossos olhos.",
+    "complexDescription": "A constância perceptual é um fenômeno notável que demonstra como nosso cérebro vai além da informação sensorial imediata para criar uma percepção estável do mundo. Mesmo que a imagem de um objeto em nossa retina mude drasticamente dependendo da distância, ângulo de visão ou iluminação, nós continuamos a percebê-lo como tendo um tamanho, forma, cor e brilho constantes. Por exemplo: Constância de Tamanho: Percebemos uma pessoa como tendo o mesmo tamanho, quer esteja perto (imagem grande na retina) ou longe (imagem pequena). Constância de Forma: Uma porta é percebida como retangular, mesmo que a imagem na retina seja um trapézio quando a vemos de um ângulo. Constância de Cor/Brilho: Uma folha de papel branco é percebida como branca sob luz solar intensa ou na sombra, embora a quantidade de luz refletida mude. Essas constâncias dependem de pistas contextuais e do conhecimento prévio sobre os objetos, sendo um exemplo de processamento top-down que nos ajuda a navegar em um ambiente visual em constante mudança.",
+    "price": 18,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Smile"
+  },
+  {
+    "id": "teoria-da-deteccao-de-sinal-tds",
+    "name": "Teoria da Detecção de Sinal (TDS)",
+    "basicDescription": "Modelo que explica como tomamos decisões sob incerteza, separando a sensibilidade real ao estímulo dos critérios de decisão (vieses) da pessoa.",
+    "complexDescription": "A Teoria da Detecção de Sinal (TDS) é uma abordagem psicofísica usada para medir a capacidade de um observador de discernir entre um 'sinal' (estímulo alvo) e 'ruído' (estimulação de fundo ou ausência do sinal), especialmente quando o sinal é fraco ou ambíguo. Ao contrário dos métodos de limiar clássicos, a TDS reconhece que a decisão de 'detectar' ou 'não detectar' um sinal não depende apenas da sensibilidade do sistema sensorial (d', d-prime), mas também dos critérios ou viés de resposta do observador (beta, β). O critério reflete a tendência do observador a dizer 'sim, detectei' versus 'não, não detectei', e pode ser influenciado por fatores como expectativas e as consequências (recompensas/custos) de acertos e falsos alarmes. A TDS permite analisar separadamente a sensibilidade (quão bem o observador distingue sinal de ruído) e o critério (quão liberal ou conservador é o observador em sua resposta), fornecendo uma medida mais completa do desempenho em tarefas de detecção.",
+    "price": 26,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Users"
+  },
+  {
+    "id": "memoria-implicita-vs-explicita",
+    "name": "Memória Implícita vs. Explícita",
+    "basicDescription": "Dois sistemas de memória de longo prazo: a memória inconsciente para habilidades e condicionamento (implícita) e a memória consciente para fatos e eventos (explícita).",
+    "complexDescription": "A memória de longo prazo não é um sistema unitário. A Memória Explícita (ou declarativa) envolve a recordação consciente e intencional de informações. Ela se subdivide em: Memória Episódica (lembranças de eventos pessoais específicos, com contexto temporal e espacial - 'o que fiz nas férias passadas') e Memória Semântica (conhecimento geral sobre o mundo, fatos, conceitos, linguagem - 'Paris é a capital da França'). A memória explícita depende de estruturas como o hipocampo e geralmente pode ser verbalizada. Em contraste, a Memória Implícita (ou não declarativa) se manifesta através do desempenho, sem consciência ou recordação intencional. Inclui: Memória Procedimental (habilidades motoras e cognitivas - 'andar de bicicleta', 'digitar'), Priming (facilitação na identificação de um estímulo devido à exposição prévia) e Aprendizagem Associativa (condicionamento clássico e operante). A memória implícita depende de outras estruturas cerebrais (como os gânglios da base e o cerebelo) e é demonstrada pela ação, não pela declaração.",
+    "price": 20,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "efeito-da-desinformacao-misinformation-effect",
+    "name": "Efeito da Desinformação (Misinformation Effect)",
+    "basicDescription": "A tendência de informações enganosas, recebidas após um evento, serem incorporadas à memória desse evento, distorcendo a lembrança original.",
+    "complexDescription": "Pesquisado extensivamente por Elizabeth Loftus, o efeito da desinformação demonstra a maleabilidade da memória autobiográfica. Ocorre quando a recordação de um evento por uma pessoa é alterada após ela ser exposta a informações pós-evento que são incorretas ou sugestivas. Em experimentos clássicos, participantes que testemunhavam um evento (ex: um acidente de carro em vídeo) e depois recebiam perguntas com informações enganosas (ex: 'Qual a velocidade dos carros quando eles se esmagaram um contra o outro?' vs. '...se chocaram?') tendiam a incorporar essa desinformação em sua memória, relatando ter visto coisas que não estavam presentes (como vidro quebrado no caso do verbo 'esmagaram'). Esse efeito sugere que a memória não é uma gravação passiva, mas um processo reconstrutivo ativo, vulnerável a sugestões e informações posteriores. Tem implicações importantes para o testemunho ocular em contextos legais.",
+    "price": 24,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Target"
+  },
+  {
+    "id": "amnesia-anterograda-vs-retrograda",
+    "name": "Amnésia Anterógrada vs. Retrógrada",
+    "basicDescription": "Dois tipos de perda de memória: incapacidade de formar novas memórias (anterógrada) e perda de memórias passadas (retrógrada).",
+    "complexDescription": "Amnésia refere-se à perda de memória, geralmente causada por lesão cerebral, doença ou trauma psicológico. Amnésia Anterógrada é a incapacidade de formar novas memórias de longo prazo (especificamente memórias explícitas episódicas e semânticas) após o evento que causou a amnésia. A pessoa pode lembrar-se claramente do passado antes da lesão, mas tem grande dificuldade em aprender novas informações ou lembrar-se do que aconteceu minutos ou horas atrás. A memória de curto prazo e a memória implícita (procedimental) geralmente permanecem intactas. O famoso caso do paciente H.M., que teve o hipocampo removido, é um exemplo clássico. Amnésia Retrógrada é a perda de memórias formadas antes do evento que causou a amnésia. A extensão da perda pode variar, afetando desde algumas horas antes do trauma até anos ou décadas. Geralmente, as memórias mais recentes são mais afetadas do que as memórias mais antigas (lei de Ribot). Os dois tipos podem ocorrer juntos, mas também podem ocorrer isoladamente.",
+    "price": 23,
+    "category": "Neurociência",
+    "iconName": "Scale"
+  },
+  {
+    "id": "inteligencia-triarquica-sternberg",
+    "name": "Inteligência Triárquica (Sternberg)",
+    "basicDescription": "Teoria de Robert Sternberg que propõe três tipos de inteligência: analítica, criativa e prática.",
+    "complexDescription": "Como alternativa às visões mais tradicionais de inteligência (focadas no QI), Robert Sternberg propôs a Teoria Triárquica da Inteligência, que enfatiza a inteligência bem-sucedida no mundo real. Ele distingue três componentes inter-relacionados: 1) Inteligência Analítica: Refere-se às habilidades de pensamento abstrato, raciocínio lógico, análise, avaliação e resolução de problemas bem definidos. É o tipo de inteligência mais valorizado em ambientes acadêmicos e medido por testes de QI tradicionais. 2) Inteligência Criativa: Envolve a capacidade de lidar com situações novas, gerar ideias originais, pensar de forma flexível e combinar informações de maneiras inovadoras. É a habilidade de ir além do que é dado para criar algo novo. 3) Inteligência Prática: Refere-se à habilidade de lidar eficazmente com problemas cotidianos, adaptar-se a diferentes contextos, entender e influenciar pessoas ('inteligência de rua'). Envolve conhecimento tácito (implícito, aprendido pela experiência). Sternberg argumenta que a inteligência bem-sucedida requer um equilíbrio entre essas três capacidades e a habilidade de aplicá-las adequadamente aos desafios da vida.",
+    "price": 25,
+    "category": "Psicologia da Inteligência",
+    "iconName": "Compass"
+  },
+  {
+    "id": "pensamento-divergente-vs-convergente",
+    "name": "Pensamento Divergente vs. Convergente",
+    "basicDescription": "Dois estilos de pensamento: gerar múltiplas soluções criativas para um problema (divergente) vs. encontrar a única resposta correta (convergente).",
+    "complexDescription": "Essa distinção, popularizada por J.P. Guilford, descreve duas abordagens diferentes para a resolução de problemas e a geração de ideias. Pensamento Convergente é o tipo de pensamento necessário para resolver problemas que têm uma única solução correta bem definida. Envolve lógica, análise, foco e a aplicação de conhecimentos e regras estabelecidas para 'convergir' para a resposta certa. É típico de testes de inteligência padrão e muitas tarefas escolares. Pensamento Divergente, por outro lado, está associado à criatividade. Envolve gerar múltiplas ideias, soluções ou possibilidades diferentes e originais a partir de um único ponto de partida ou problema. Requer flexibilidade mental, fluência (gerar muitas ideias), originalidade (ideias incomuns) и elaboração (desenvolver as ideias). Tarefas que medem o pensamento divergente podem pedir para listar todos os usos possíveis para um tijolo. Embora distintos, ambos os tipos de pensamento são importantes; o pensamento divergente gera as opções criativas, e o convergente ajuda a avaliar e selecionar a melhor.",
+    "price": 19,
+    "category": "Psicologia Cognitiva",
+    "iconName": "Heart"
+  },
+  {
+    "id": "sono-rem-rapid-eye-movement",
+    "name": "Sono REM (Rapid Eye Movement)",
+    "basicDescription": "Estágio do sono caracterizado por movimentos rápidos dos olhos, atividade cerebral semelhante à vigília e sonhos vívidos.",
+    "complexDescription": "O sono não é um estado uniforme, mas um ciclo de diferentes estágios. O Sono REM é um estágio distinto que ocorre ciclicamente ao longo da noite (alternando com o sono NREM - Non-REM). Caracteriza-se por: 1) Movimentos Rápidos dos Olhos sob as pálpebras fechadas. 2) Atividade Cerebral Intensa: Ondas cerebrais (EEG) rápidas e de baixa amplitude, semelhantes às da vigília ou do estágio 1 do sono, levando a ser chamado também de 'sono paradoxal'. 3) Atonia Muscular: Paralisia temporária dos músculos voluntários do corpo (exceto olhos, diafragma e músculos lisos), que impede que 'atuemos' nossos sonhos. 4) Sonhos Vívidos e Narrativos: É o estágio onde ocorrem os sonhos mais bizarros, emocionais e com enredo. O sono REM desempenha papéis importantes na consolidação da memória (especialmente memórias procedimentais e emocionais), no processamento emocional e no desenvolvimento cerebral (é mais abundante em bebês). A privação seletiva de REM pode levar a déficits cognitivos e emocionais.",
+    "price": 20,
+    "category": "Neurociência",
+    "iconName": "Shield"
+  },
+  {
+    "id": "teoria-da-ativacao-sintese-sonhos",
+    "name": "Teoria da Ativação-Síntese (Sonhos)",
+    "basicDescription": "Teoria neurobiológica que propõe que os sonhos são a tentativa do cérebro de dar sentido a sinais neurais aleatórios gerados durante o sono REM.",
+    "complexDescription": "Proposta por J. Allan Hobson e Robert McCarley, a Teoria da Ativação-Síntese oferece uma explicação neurofisiológica para os sonhos, contrastando com as teorias psicodinâmicas (como a de Freud). Segundo essa teoria, durante o sono REM, circuitos no tronco cerebral (especialmente a ponte) tornam-se ativos e disparam sinais neurais de forma relativamente aleatória para áreas superiores do cérebro, incluindo o córtex cerebral (ativação). Essas áreas corticais, responsáveis pelo pensamento, percepção e emoção, tentam interpretar e organizar essa atividade neural interna caótica, 'sintetizando' os sinais em imagens, sensações e narrativas que experienciamos como sonhos. A natureza bizarra e ilógica dos sonhos seria um reflexo da aleatoriedade da ativação inicial e da tentativa do córtex de impor uma estrutura a ela, usando memórias e associações existentes. Embora a teoria original tenha sido atualizada (reconhecendo mais papel para emoções e motivações), ela enfatiza a base biológica dos sonhos como um subproduto da atividade cerebral durante o REM.",
+    "price": 23,
+    "category": "Neurociência",
+    "iconName": "Brain"
+  },
+  {
+    "id": "terapia-centrada-no-cliente-rogers",
+    "name": "Terapia Centrada no Cliente (Rogers)",
+    "basicDescription": "Abordagem de psicoterapia humanista desenvolvida por Carl Rogers, que enfatiza a empatia, a aceitação incondicional e a congruência do terapeuta.",
+    "complexDescription": "A Terapia Centrada no Cliente (ou Terapia Centrada na Pessoa) é uma abordagem não diretiva de psicoterapia que se baseia na crença de que cada indivíduo tem uma tendência inata para o crescimento e a autorrealização (tendência atualizante). O papel do terapeuta não é interpretar ou direcionar, mas sim criar um ambiente psicológico seguro e de apoio onde o cliente possa explorar seus sentimentos, pensamentos e experiências, e encontrar suas próprias soluções. Rogers identificou três condições essenciais que o terapeuta deve fornecer para facilitar esse crescimento: 1) Congruência (ou Genuinidade): O terapeuta é autêntico, transparente e consciente de seus próprios sentimentos na relação. 2) Consideração Positiva Incondicional: O terapeuta aceita o cliente totalmente, sem julgamento, valorizando-o como pessoa, independentemente de seus comportamentos ou sentimentos. 3) Compreensão Empática: O terapeuta esforça-se para compreender profundamente o mundo interno do cliente a partir da perspectiva dele, e comunica essa compreensão. Acredita-se que, nesse clima terapêutico, o cliente possa reduzir a incongruência entre seu eu real e seu eu ideal, tornando-se mais autoaceito e funcional.",
+    "price": 28,
+    "category": "Psicoterapia",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "terapia-familiar-sistemica",
+    "name": "Terapia Familiar Sistêmica",
+    "basicDescription": "Abordagem de psicoterapia que vê os problemas individuais no contexto das interações e dinâmicas do sistema familiar como um todo.",
+    "complexDescription": "A Terapia Familiar Sistêmica difere das abordagens individuais ao considerar que os problemas psicológicos de um membro da família (o 'paciente identificado') são frequentemente sintomas de uma disfunção no sistema familiar maior. O foco do tratamento não é apenas o indivíduo, mas as interações, padrões de comunicação, regras (explícitas e implícitas), papéis, alianças e limites dentro da família. A premissa é que as famílias funcionam como sistemas interdependentes, onde o comportamento de cada membro afeta e é afetado pelos outros, e o sistema busca manter um equilíbrio (homeostase), mesmo que este seja disfuncional. Terapeutas sistêmicos observam esses padrões de interação no 'aqui e agora' da sessão e intervêm para ajudar a família a identificar e modificar padrões de comunicação problemáticos, a redefinir papéis e regras, e a desenvolver maneiras mais saudáveis de se relacionar e resolver conflitos. Existem diversas escolas dentro da terapia sistêmica (Estrutural, Estratégica, Transgeracional, etc.).",
+    "price": 30,
+    "category": "Psicoterapia",
+    "iconName": "Zap"
+  },
+  {
+    "id": "transtorno-de-personalidade-borderline-tpb",
+    "name": "Transtorno de Personalidade Borderline (TPB)",
+    "basicDescription": "Transtorno de personalidade caracterizado por instabilidade intensa nos relacionamentos, autoimagem e emoções, além de impulsividade acentuada.",
+    "complexDescription": "O Transtorno de Personalidade Borderline (TPB), pertencente ao Cluster B (dramático/errático) dos transtornos de personalidade no DSM-5, é um padrão generalizado de instabilidade nas relações interpessoais, na autoimagem e nos afetos, acompanhado por impulsividade marcante que começa no início da idade adulta e está presente em vários contextos. Características centrais incluem: esforços frenéticos para evitar abandono (real ou imaginado), padrão de relacionamentos interpessoais instáveis e intensos (alternando entre idealização e desvalorização), perturbação da identidade (instabilidade acentuada da autoimagem), impulsividade em áreas potencialmente autodestrutivas (gastos, sexo, abuso de substâncias, compulsão alimentar), comportamento suicida recorrente ou automutilação, instabilidade afetiva devido à reatividade do humor (disforia episódica intensa, irritabilidade ou ansiedade), sentimentos crônicos de vazio, raiva intensa e inadequada, e ideação paranoide transitória relacionada ao estresse ou sintomas dissociativos. A Terapia Comportamental Dialética (DBT) é um tratamento eficaz.",
+    "price": 31,
+    "category": "Psicopatologia",
+    "iconName": "RefreshCcw"
+  },
+  {
+    "id": "transtorno-de-personalidade-narcisista-tpn",
+    "name": "Transtorno de Personalidade Narcisista (TPN)",
+    "basicDescription": "Transtorno de personalidade caracterizado por um padrão de grandiosidade, necessidade de admiração e falta de empatia.",
+    "complexDescription": "Também pertencente ao Cluster B do DSM-5, o Transtorno de Personalidade Narcisista (TPN) é marcado por um padrão difuso de grandiosidade (em fantasia ou comportamento), necessidade constante de admiração e falta de empatia, começando no início da idade adulta. Indivíduos com TPN frequentemente têm um senso inflado de autoimportância, exageram conquistas e talentos, esperam ser reconhecidos como superiores sem realizações proporcionais, são preocupados com fantasias de sucesso ilimitado, poder, brilho, beleza ou amor ideal, acreditam ser 'especiais' e únicos, exigem admiração excessiva, têm um senso de direito (expectativas irracionais de tratamento favorável), são exploradores em relacionamentos interpessoais (usam os outros para atingir seus próprios fins), carecem de empatia (relutam em reconhecer ou identificar-se com os sentimentos e necessidades dos outros) e frequentemente são invejosos ou acreditam que os outros os invejam, além de demonstrarem comportamentos ou atitudes arrogantes e soberbos. Sua autoestima, no entanto, costuma ser frágil.",
+    "price": 29,
+    "category": "Psicopatologia",
+    "iconName": "Smile"
+  },
+  {
+    "id": "transtorno-de-deficit-de-atencaohiperatividade-tdah",
+    "name": "Transtorno de Déficit de Atenção/Hiperatividade (TDAH)",
+    "basicDescription": "Transtorno do neurodesenvolvimento caracterizado por padrões persistentes de desatenção e/ou hiperatividade-impulsividade que interferem no funcionamento.",
+    "complexDescription": "O TDAH é uma condição neurobiológica que se manifesta na infância (embora o diagnóstico possa ocorrer mais tarde) e frequentemente persiste na vida adulta. É caracterizado por um padrão persistente de sintomas em duas categorias principais: 1) Desatenção: Dificuldade em prestar atenção a detalhes, cometer erros por descuido, dificuldade em sustentar a atenção em tarefas ou jogos, parecer não ouvir quando falado diretamente, dificuldade em seguir instruções e terminar tarefas, dificuldade em organizar tarefas e atividades, evitar tarefas que exigem esforço mental sustentado, perder objetos necessários, ser facilmente distraído por estímulos externos, ser esquecido nas atividades diárias. 2) Hiperatividade-Impulsividade: Remexer-se ou batucar mãos/pés, levantar-se em situações onde se espera que permaneça sentado, correr ou escalar em situações inadequadas (em adultos, pode ser sensação de inquietação), incapacidade de brincar ou se engajar em atividades de lazer calmamente, estar 'a mil' ou agir como se 'ligado a um motor', falar excessivamente, responder perguntas antes de serem completadas, dificuldade em esperar a vez, interromper ou se intrometer. O diagnóstico requer que os sintomas causem prejuízo significativo em múltiplos contextos (casa, escola/trabalho).",
+    "price": 27,
+    "category": "Neurodesenvolvimento",
+    "iconName": "Users"
+  },
+  {
+    "id": "transtorno-do-espectro-autista-tea",
+    "name": "Transtorno do Espectro Autista (TEA)",
+    "basicDescription": "Transtorno do neurodesenvolvimento caracterizado por déficits na comunicação e interação social, e padrões restritos e repetitivos de comportamento, interesses ou atividades.",
+    "complexDescription": "O TEA é uma condição neurológica e de desenvolvimento que afeta como uma pessoa interage com os outros, se comunica, aprende e se comporta. É chamado de 'espectro' porque os sintomas e a gravidade variam amplamente entre os indivíduos. As características principais são agrupadas em duas áreas: 1) Déficits Persistentes na Comunicação e Interação Social: Dificuldades na reciprocidade socioemocional (abordagem social anormal, falha na conversação), déficits nos comportamentos comunicativos não verbais usados para interação social (contato visual pobre, falta de expressões faciais), e déficits no desenvolvimento, manutenção e compreensão de relacionamentos. 2) Padrões Restritos e Repetitivos de Comportamento, Interesses ou Atividades: Movimentos motores, uso de objetos ou fala estereotipados ou repetitivos; insistência nas mesmas coisas, adesão inflexível a rotinas ou padrões ritualizados; interesses fixos altamente restritos que são anormais em intensidade ou foco; hiper ou hiporreatividade a estímulos sensoriais ou interesse incomum em aspectos sensoriais do ambiente. Os sintomas estão presentes desde o início do desenvolvimento e causam prejuízo clinicamente significativo.",
+    "price": 32,
+    "category": "Neurodesenvolvimento",
+    "iconName": "Lightbulb"
+  },
+  {
+    "id": "psiconeuroimunologia-pni",
+    "name": "Psiconeuroimunologia (PNI)",
+    "basicDescription": "O estudo das interações entre processos psicológicos (mente), o sistema nervoso e o sistema imunológico.",
+    "complexDescription": "A Psiconeuroimunologia (PNI) é um campo interdisciplinar que investiga as complexas vias de comunicação bidirecionais entre o cérebro (processos psicológicos e neurais) e o sistema imunológico. Ela explora como fatores psicológicos como estresse, emoções, personalidade e apoio social podem influenciar a função imunológica e, consequentemente, a suscetibilidade a doenças, a progressão de doenças e a recuperação. Por exemplo, pesquisas em PNI demonstraram que o estresse crônico pode suprimir certas respostas imunes (aumentando a vulnerabilidade a infecções) ou exacerbar respostas inflamatórias (contribuindo para doenças autoimunes ou cardiovasculares), através de vias neurais e hormonais (como o eixo HPA e o sistema nervoso simpático). Por outro lado, o sistema imunológico também pode sinalizar o cérebro (ex: através de citocinas), influenciando o humor, o comportamento e a cognição (ex: 'comportamento de doença'). A PNI fornece uma base científica para entender a conexão mente-corpo na saúde e na doença.",
+    "price": 29,
+    "category": "Neurociência",
+    "iconName": "Target"
+  },
+  {
+    "id": "coping-focado-no-problema-vs-na-emocao",
+    "name": "Coping (Focado no Problema vs. na Emoção)",
+    "basicDescription": "Estratégias usadas para lidar com o estresse: tentando resolver o problema diretamente (focado no problema) ou gerenciando as emoções causadas por ele (focado na emoção).",
+    "complexDescription": "Coping (ou enfrentamento) refere-se aos esforços cognitivos e comportamentais conscientes que usamos para gerenciar demandas internas ou externas que são percebidas como desafiadoras ou excedendo nossos recursos. Lazarus e Folkman distinguiram duas categorias principais de estratégias de coping: 1) Coping Focado no Problema: Visa lidar diretamente com o estressor ou a situação problemática, tentando alterá-la ou resolvê-la. Inclui estratégias como buscar informações, planejar soluções, tomar ações diretas, buscar ajuda instrumental. É mais provável de ser usado quando percebemos que podemos fazer algo para mudar a situação. 2) Coping Focado na Emoção: Visa regular a resposta emocional ao estressor, aliviando o desconforto sem necessariamente mudar a situação em si. Inclui estratégias como buscar apoio social emocional, reavaliação positiva, distração, aceitação, meditação, ou, de forma menos adaptativa, negação ou uso de substâncias. É mais provável de ser usado quando sentimos que a situação está fora do nosso controle. Pessoas geralmente usam uma combinação de ambas as estratégias, e a eficácia depende da situação e do indivíduo.",
+    "price": 18,
+    "category": "Psicologia da Saúde",
+    "iconName": "Scale"
+  },
+  {
+    "id": "resiliencia",
+    "name": "Resiliência",
+    "basicDescription": "A capacidade de se adaptar bem e se recuperar rapidamente diante de adversidades, traumas, tragédias ou estresse significativo.",
+    "complexDescription": "Resiliência não é um traço fixo que algumas pessoas têm e outras não; é um processo dinâmico que envolve a capacidade de 'se recuperar' de experiências difíceis e manter ou readquirir o funcionamento psicológico e físico saudável. Não significa ausência de sofrimento ou dificuldade, mas sim a habilidade de navegar por esses desafios de forma adaptativa. Fatores que contribuem para a resiliência incluem: características individuais (otimismo, autoeficácia, habilidades de coping, QI), relacionamentos de apoio (família, amigos, comunidade), e fatores contextuais (recursos sociais, oportunidades). A resiliência envolve comportamentos, pensamentos e ações que podem ser aprendidos e desenvolvidos. Inclui manter uma perspectiva esperançosa, aceitar que a mudança faz parte da vida, cuidar de si mesmo (física e mentalmente), estabelecer metas realistas, tomar ações decisivas e manter conexões sociais fortes. É um processo de adaptação positiva no contexto de adversidade significativa.",
+    "price": 26,
+    "category": "Psicologia Positiva",
+    "iconName": "Compass"
+  },
+  {
+    "id": "fluxo-flow",
+    "name": "Fluxo (Flow)",
+    "basicDescription": "Um estado mental de imersão total e foco energizado em uma atividade, com pleno envolvimento e satisfação no processo.",
+    "complexDescription": "Descrito por Mihaly Csikszentmihalyi, o Fluxo (Flow) é uma experiência psicológica ótima que ocorre quando uma pessoa está completamente absorvida em uma atividade, perdendo a noção do tempo e do self, e sentindo um profundo prazer e engajamento. Ocorre tipicamente quando as habilidades da pessoa estão em equilíbrio com os desafios da tarefa – a atividade não é nem tão fácil a ponto de ser entediante, nem tão difícil a ponto de causar ansiedade. Características da experiência de fluxo incluem: concentração intensa e focada no momento presente, fusão entre ação e consciência, perda da autoconsciência reflexiva, sensação de controle pessoal sobre a situação, distorção da experiência temporal, e experiência da atividade como intrinsecamente recompensadora (autotélica). O fluxo pode ocorrer em diversas atividades, como esportes, artes, trabalho, jogos ou até mesmo em conversas profundas. É considerado um componente importante da felicidade e do bem-estar na Psicologia Positiva.",
+    "price": 27,
+    "category": "Psicologia Positiva",
+    "iconName": "Heart"
+  },
+  {
+    "id": "hipotese-da-empatia-altruismo",
+    "name": "Hipótese da Empatia-Altruísmo",
+    "basicDescription": "A ideia de que quando sentimos empatia por alguém necessitado, ajudamos essa pessoa por motivos puramente altruístas, independentemente do que ganhamos com isso.",
+    "complexDescription": "Proposta por C. Daniel Batson, a hipótese da empatia-altruísmo sugere que, sob certas condições, o comportamento de ajuda pode ser motivado por um desejo genuinamente altruísta de melhorar o bem-estar de outra pessoa, e não apenas por interesse próprio (como aliviar o próprio desconforto ao ver o sofrimento alheio, buscar recompensas sociais ou evitar culpa). O fator chave que desencadearia essa motivação altruísta é a empatia – sentir compaixão, ternura e preocupação pela pessoa em necessidade (adotar a perspectiva do outro). Quando a empatia é alta, a hipótese prevê que ajudaremos mesmo que a fuga da situação seja fácil e mesmo que não haja ganhos pessoais óbvios. Em contraste, se a empatia for baixa, a ajuda seria mais provável de ocorrer por motivos egoístas (modelo do alívio do estado negativo). A existência de altruísmo 'puro' é um debate contínuo na psicologia, mas a pesquisa de Batson fornece evidências significativas em favor dessa hipótese.",
+    "price": 24,
+    "category": "Psicologia Social",
+    "iconName": "Shield"
+  },
+  {
+    "id": "agressao-hostil-vs-instrumental",
+    "name": "Agressão Hostil vs. Instrumental",
+    "basicDescription": "Dois tipos de agressão: movida pela raiva com intenção de ferir (hostil) versus usada como meio para atingir um objetivo (instrumental).",
+    "complexDescription": "Agressão é definida como qualquer comportamento intencional que visa causar dano físico ou psicológico a outra pessoa (ou ser vivo) que está motivada a evitar tal tratamento. Os psicólogos sociais frequentemente distinguem dois tipos principais: 1) Agressão Hostil (ou Afetiva/Impulsiva): É impulsionada pela raiva, fúria ou hostilidade, e o objetivo principal é infligir dor ou sofrimento à vítima. Geralmente ocorre como uma reação a uma provocação percebida, frustração ou insulto. É uma agressão 'quente', emocional e muitas vezes impulsiva. 2) Agressão Instrumental: É motivada por um objetivo diferente do simples ato de ferir. A agressão aqui é um meio para atingir um fim desejado. Exemplos incluem roubar para obter dinheiro, intimidar alguém para obter status social, ou um soldado matando em combate. A agressão é 'fria', calculada e serve a um propósito externo. Embora a intenção de causar dano esteja presente em ambos os tipos, a motivação subjacente e o estado emocional associado são diferentes.",
+    "price": 16,
+    "category": "Psicologia Social",
+    "iconName": "Brain"
+  },
+  {
+    "id": "teoria-triangular-do-amor-sternberg",
+    "name": "Teoria Triangular do Amor (Sternberg)",
+    "basicDescription": "Teoria de Robert Sternberg que descreve o amor como composto por três componentes: Intimidade, Paixão e Compromisso.",
+    "complexDescription": "Robert Sternberg propôs que diferentes tipos de amor podem ser entendidos como combinações variadas de três componentes fundamentais: 1) Intimidade: Refere-se aos sentimentos de proximidade, conexão emocional, vínculo e calor no relacionamento. Inclui desejo de promover o bem-estar do outro, respeito, compreensão mútua e compartilhamento de si mesmo. É o componente 'quente' do amor. 2) Paixão: Refere-se aos impulsos que levam ao romance, atração física e excitação sexual no relacionamento. Envolve um estado de intenso desejo de união com o outro. É o componente 'ardente' e motivacional. 3) Compromisso: Refere-se à decisão de curto prazo de que se ama o outro e ao compromisso de longo prazo de manter esse amor e o relacionamento através dos desafios. É o componente 'frio' e cognitivo. Segundo Sternberg, a presença ou ausência desses componentes define diferentes tipos de amor (ex: Paixão sozinha = Paixão Cega; Intimidade + Compromisso = Amor Companheiro; Intimidade + Paixão + Compromisso = Amor Consumado, o tipo ideal).",
+    "price": 25,
+    "category": "Psicologia Social",
+    "iconName": "BookOpen"
+  },
+  {
+    "id": "psicologia-transcultural",
+    "name": "Psicologia Transcultural",
+    "basicDescription": "Ramo da psicologia que estuda como os fatores culturais influenciam o comportamento, pensamento e emoções humanas, comparando diferentes culturas.",
+    "complexDescription": "A psicologia transcultural examina tanto a universalidade quanto a diversidade do comportamento e dos processos mentais humanos em diferentes contextos culturais. Ela investiga como a cultura – definida como um conjunto compartilhado de crenças, valores, normas, atitudes e comportamentos transmitidos entre gerações – molda a percepção, a cognição, a emoção, a personalidade, o desenvolvimento, o comportamento social e a saúde mental. Utiliza métodos comparativos para testar se teorias e descobertas psicológicas (muitas vezes desenvolvidas em culturas ocidentais, educadas, industrializadas, ricas e democráticas - WEIRD) são aplicáveis universalmente ou se são específicas de certas culturas (éticas vs. êmicas). Questões centrais incluem como a cultura influencia o autoconceito (individualista vs. coletivista), as práticas de criação de filhos, a expressão emocional, a prevalência e manifestação de transtornos mentais, e a eficácia de intervenções psicológicas. Busca entender a interação entre a natureza humana universal e as influências culturais específicas.",
+    "price": 27,
+    "category": "Psicologia Cultural",
+    "iconName": "Zap"
+  },
+  {
+    "id": "vies-implicito-inconsciente",
+    "name": "Viés Implícito (Inconsciente)",
+    "basicDescription": "Atitudes ou estereótipos que afetam nossa compreensão, ações e decisões de forma inconsciente e involuntária.",
+    "complexDescription": "Vieses implícitos são associações mentais automáticas e inconscientes que fazemos entre grupos sociais (ex: raça, gênero, idade) e estereótipos ou avaliações (positivas ou negativas). Eles residem profundamente em nosso subconsciente, tendo sido formados por experiências passadas, influências culturais e representações da mídia, muitas vezes sem nossa percepção consciente ou endosso explícito. Mesmo pessoas que conscientemente rejeitam o preconceito podem ter vieses implícitos que influenciam seus julgamentos e comportamentos de maneiras sutis, como em decisões de contratação, diagnósticos médicos, interações sociais ou avaliações de desempenho. O Teste de Associação Implícita (IAT) é uma ferramenta comumente usada para medir esses vieses, avaliando a rapidez com que associamos conceitos (ex: 'branco'/'bom' vs. 'negro'/'bom'). Reconhecer a existência de vieses implícitos é o primeiro passo para mitigar seu impacto negativo, embora sua modificação seja complexa e requeira esforço consciente e estratégias específicas.",
+    "price": 25,
+    "category": "Psicologia Social",
+    "iconName": "RefreshCcw"
+  }
+]

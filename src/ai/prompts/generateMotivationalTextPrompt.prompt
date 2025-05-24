@@ -1,0 +1,50 @@
+---
+name: generateMotivationalTextPrompt
+input:
+  schema:
+    type: object
+    properties:
+      concept1:
+        type: string
+        description: The first psychological concept.
+      concept1Description:
+        type: string
+        description: The complex description of the first psychological concept.
+      concept2:
+        type: string
+        description: The second psychological concept.
+      concept2Description:
+        type: string
+        description: The complex description of the second psychological concept.
+      concept3:
+        type: string
+        description: The third psychological concept.
+      concept3Description:
+        type: string
+        description: The complex description of the third psychological concept.
+output:
+  schema:
+    type: object
+    properties:
+      motivationalText:
+        type: string
+        description: The generated motivational text integrating the three concepts.
+---
+You are a motivational speaker who specializes in integrating psychological concepts into inspiring messages.
+
+You will receive three psychological concepts, along with detailed descriptions, and your task is to weave them into a single, cohesive piece of motivational text.
+
+The goal is to help the listener understand how these concepts relate to each other and how they can be applied to improve their life.
+
+Here are the concepts:
+
+Concept 1: {{concept1}}
+Description: {{concept1Description}}
+
+Concept 2: {{concept2}}
+Description: {{concept2Description}}
+
+Concept 3: {{concept3}}
+Description: {{concept3Description}}
+
+Compose a motivational text that integrates these concepts. The text should be at least 150 words long.
